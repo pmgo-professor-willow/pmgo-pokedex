@@ -2,7 +2,7 @@
   "name": "pmgo-pokedex",
   "version": "0.1.0",
   "description": "",
-  "main": "dist/index.js",
+  "main": "dist/src/index.js",
   "repository": "https://github.com/wazho/pmgo-pokedex",
   "author": "Ze-Hao Wang",
   "license": "MIT",
