@@ -4,7 +4,7 @@ import fetch from 'node-fetch';
 import { parse } from 'node-html-parser';
 import urlJoin from 'url-join';
 // Local modules.
-import { hostUrl, assetUrl } from './utils';
+import { hostUrl } from './utils';
 
 const getNameList = async () => {
   const nameListUrl = urlJoin(hostUrl, '/wiki/List_of_Chinese_Pok%C3%A9mon_names');
@@ -26,7 +26,7 @@ const getNameList = async () => {
           no: parseInt(no),
           'en-US': nameEn,
           'zh-TW': nameZhTw,
-          'zh-US': nameZhCn,
+          'zh-CN': nameZhCn,
         }
         : null;
     })
