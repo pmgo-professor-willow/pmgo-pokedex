@@ -2,12 +2,10 @@
 import _ from 'lodash';
 import fetch from 'node-fetch';
 import { parse } from 'node-html-parser';
-import urlJoin from 'url-join';
-// Local modules.
-import { hostUrl } from './utils';
+import { mkdirp, writeFile } from 'fs-extra';
 
 const getNameList = async () => {
-  const nameListUrl = urlJoin(hostUrl, '/wiki/List_of_Chinese_Pok%C3%A9mon_names');
+  const nameListUrl = 'https://bulbapedia.bulbagarden.net/wiki/List_of_Chinese_Pok%C3%A9mon_names';
   const res = await fetch(nameListUrl);
   const xml = await res.text();
 
@@ -35,6 +33,16 @@ const getNameList = async () => {
   return nameList;
 };
 
-export {
-  getNameList,
+const main = async () => {
+  const outputPath = './data';
+  await mkdirp(outputPath);
+
+  try {
+    const pokemonList = await getNameList();
+    await writeFile(`${outputPath}/pokemon-list.json`, JSON.stringify(pokemonList, null, 2));
+  } catch (e) {
+    console.error(e);
+  }
 };
+
+main();

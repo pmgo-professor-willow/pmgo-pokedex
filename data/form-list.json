@@ -1,0 +1,862 @@
+[
+  {
+    "no": 19,
+    "name": "Rattata",
+    "en-US": "Kantonian form",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 19,
+    "name": "Rattata",
+    "en-US": "Alolan form",
+    "zh-TW": "阿羅拉地區"
+  },
+  {
+    "no": 20,
+    "name": "Raticate",
+    "en-US": "Kantonian form",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 20,
+    "name": "Raticate",
+    "en-US": "Alolan form",
+    "zh-TW": "阿羅拉地區"
+  },
+  {
+    "no": 26,
+    "name": "Raichu",
+    "en-US": "Kantonian form",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 26,
+    "name": "Raichu",
+    "en-US": "Alolan form",
+    "zh-TW": "阿羅拉地區"
+  },
+  {
+    "no": 27,
+    "name": "Sandshrew",
+    "en-US": "Kantonian form",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 27,
+    "name": "Sandshrew",
+    "en-US": "Alolan form",
+    "zh-TW": "阿羅拉地區"
+  },
+  {
+    "no": 28,
+    "name": "Sandslash",
+    "en-US": "Kantonian form",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 28,
+    "name": "Sandslash",
+    "en-US": "Alolan form",
+    "zh-TW": "阿羅拉地區"
+  },
+  {
+    "no": 37,
+    "name": "Vulpix",
+    "en-US": "Kantonian form",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 37,
+    "name": "Vulpix",
+    "en-US": "Alolan form",
+    "zh-TW": "阿羅拉地區"
+  },
+  {
+    "no": 38,
+    "name": "Ninetales",
+    "en-US": "Kantonian form",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 38,
+    "name": "Ninetales",
+    "en-US": "Alolan form",
+    "zh-TW": "阿羅拉地區"
+  },
+  {
+    "no": 50,
+    "name": "Diglett",
+    "en-US": "Kantonian form",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 50,
+    "name": "Diglett",
+    "en-US": "Alolan form",
+    "zh-TW": "阿羅拉地區"
+  },
+  {
+    "no": 51,
+    "name": "Dugtrio",
+    "en-US": "Kantonian form",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 51,
+    "name": "Dugtrio",
+    "en-US": "Alolan form",
+    "zh-TW": "阿羅拉地區"
+  },
+  {
+    "no": 52,
+    "name": "Meowth",
+    "en-US": "Kantonian form",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 52,
+    "name": "Meowth",
+    "en-US": "Alolan form",
+    "zh-TW": "阿羅拉地區"
+  },
+  {
+    "no": 52,
+    "name": "Meowth",
+    "en-US": "Kantonian form",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 52,
+    "name": "Meowth",
+    "en-US": "Galarian form",
+    "zh-TW": "伽勒爾地區"
+  },
+  {
+    "no": 53,
+    "name": "Persian",
+    "en-US": "Kantonian form",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 53,
+    "name": "Persian",
+    "en-US": "Alolan form",
+    "zh-TW": "阿羅拉地區"
+  },
+  {
+    "no": 74,
+    "name": "Geodude",
+    "en-US": "Kantonian form",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 74,
+    "name": "Geodude",
+    "en-US": "Alolan form",
+    "zh-TW": "阿羅拉地區"
+  },
+  {
+    "no": 75,
+    "name": "Graveler",
+    "en-US": "Kantonian form",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 75,
+    "name": "Graveler",
+    "en-US": "Alolan form",
+    "zh-TW": "阿羅拉地區"
+  },
+  {
+    "no": 76,
+    "name": "Golem",
+    "en-US": "Kantonian form",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 76,
+    "name": "Golem",
+    "en-US": "Alolan form",
+    "zh-TW": "阿羅拉地區"
+  },
+  {
+    "no": 77,
+    "name": "Ponyta",
+    "en-US": "Kantonian form",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 77,
+    "name": "Ponyta",
+    "en-US": "Galarian form",
+    "zh-TW": "伽勒爾地區"
+  },
+  {
+    "no": 78,
+    "name": "Rapidash",
+    "en-US": "Kantonian form",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 78,
+    "name": "Rapidash",
+    "en-US": "Galarian form",
+    "zh-TW": "伽勒爾地區"
+  },
+  {
+    "no": 79,
+    "name": "Slowpoke",
+    "en-US": "Kantonian form",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 79,
+    "name": "Slowpoke",
+    "en-US": "Galarian form",
+    "zh-TW": "伽勒爾地區"
+  },
+  {
+    "no": 83,
+    "name": "Farfetch'd",
+    "en-US": "Kantonian form",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 83,
+    "name": "Farfetch'd",
+    "en-US": "Galarian form",
+    "zh-TW": "伽勒爾地區"
+  },
+  {
+    "no": 88,
+    "name": "Grimer",
+    "en-US": "Kantonian form",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 88,
+    "name": "Grimer",
+    "en-US": "Alolan form",
+    "zh-TW": "阿羅拉地區"
+  },
+  {
+    "no": 89,
+    "name": "Muk",
+    "en-US": "Kantonian form",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 89,
+    "name": "Muk",
+    "en-US": "Alolan form",
+    "zh-TW": "阿羅拉地區"
+  },
+  {
+    "no": 103,
+    "name": "Exeggutor",
+    "en-US": "Kantonian form",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 103,
+    "name": "Exeggutor",
+    "en-US": "Alolan form",
+    "zh-TW": "阿羅拉地區"
+  },
+  {
+    "no": 105,
+    "name": "Marowak",
+    "en-US": "Kantonian form",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 105,
+    "name": "Marowak",
+    "en-US": "Alolan form",
+    "zh-TW": "阿羅拉地區"
+  },
+  {
+    "no": 110,
+    "name": "Weezing",
+    "en-US": "Kantonian form",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 110,
+    "name": "Weezing",
+    "en-US": "Galarian form",
+    "zh-TW": "伽勒爾地區"
+  },
+  {
+    "no": 122,
+    "name": "Mr. Mime",
+    "en-US": "Kantonian form",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 122,
+    "name": "Mr. Mime",
+    "en-US": "Galarian form",
+    "zh-TW": "伽勒爾地區"
+  },
+  {
+    "no": 150,
+    "name": "Mewtwo"
+  },
+  {
+    "no": 150,
+    "name": "Mewtwo"
+  },
+  {
+    "no": 263,
+    "name": "Zigzagoon",
+    "en-US": "Hoennian form",
+    "zh-TW": "豐緣地區"
+  },
+  {
+    "no": 263,
+    "name": "Zigzagoon",
+    "en-US": "Galarian form",
+    "zh-TW": "伽勒爾地區"
+  },
+  {
+    "no": 264,
+    "name": "Linoone",
+    "en-US": "Hoennian form",
+    "zh-TW": "豐緣地區"
+  },
+  {
+    "no": 264,
+    "name": "Linoone",
+    "en-US": "Galarian form",
+    "zh-TW": "伽勒爾地區"
+  },
+  {
+    "no": 351,
+    "name": "Castform",
+    "en-US": "Normal",
+    "zh-TW": "飄浮泡泡的樣子"
+  },
+  {
+    "no": 351,
+    "name": "Castform",
+    "en-US": "Sunny",
+    "zh-TW": "太陽的樣子"
+  },
+  {
+    "no": 351,
+    "name": "Castform",
+    "en-US": "Rainy",
+    "zh-TW": "雨水的樣子"
+  },
+  {
+    "no": 351,
+    "name": "Castform",
+    "en-US": "Snowy",
+    "zh-TW": "雪雲的樣子"
+  },
+  {
+    "no": 386,
+    "name": "Deoxys",
+    "en-US": "Normal Forme",
+    "zh-TW": "普通形態"
+  },
+  {
+    "no": 386,
+    "name": "Deoxys",
+    "en-US": "Attack Forme",
+    "zh-TW": "攻擊形態"
+  },
+  {
+    "no": 386,
+    "name": "Deoxys",
+    "en-US": "Defense Forme",
+    "zh-TW": "防禦形態"
+  },
+  {
+    "no": 386,
+    "name": "Deoxys",
+    "en-US": "Speed Forme",
+    "zh-TW": "速度形態"
+  },
+  {
+    "no": 412,
+    "name": "Burmy",
+    "en-US": "Plant Cloak",
+    "zh-TW": "草木蓑衣"
+  },
+  {
+    "no": 412,
+    "name": "Burmy",
+    "en-US": "Sandy Cloak",
+    "zh-TW": "砂土蓑衣"
+  },
+  {
+    "no": 412,
+    "name": "Burmy",
+    "en-US": "Trash Cloak",
+    "zh-TW": "垃圾蓑衣"
+  },
+  {
+    "no": 413,
+    "name": "Wormadam",
+    "en-US": "Plant Cloak",
+    "zh-TW": "草木蓑衣"
+  },
+  {
+    "no": 413,
+    "name": "Wormadam",
+    "en-US": "Sandy Cloak",
+    "zh-TW": "砂土蓑衣"
+  },
+  {
+    "no": 413,
+    "name": "Wormadam",
+    "en-US": "Trash Cloak",
+    "zh-TW": "垃圾蓑衣"
+  },
+  {
+    "no": 421,
+    "name": "Cherrim",
+    "en-US": "Overcast form",
+    "zh-TW": "陰天形態"
+  },
+  {
+    "no": 421,
+    "name": "Cherrim",
+    "en-US": "Sunshine form",
+    "zh-TW": "晴天形態"
+  },
+  {
+    "no": 422,
+    "name": "Shellos",
+    "en-US": "West Sea",
+    "zh-TW": "東海"
+  },
+  {
+    "no": 422,
+    "name": "Shellos",
+    "en-US": "Eest Sea",
+    "zh-TW": "西海"
+  },
+  {
+    "no": 423,
+    "name": "Gastrodon",
+    "en-US": "West Sea",
+    "zh-TW": "東海"
+  },
+  {
+    "no": 423,
+    "name": "Gastrodon",
+    "en-US": "Eest Sea",
+    "zh-TW": "西海"
+  },
+  {
+    "no": 479,
+    "name": "Rotom",
+    "en-US": "Regular form",
+    "zh-TW": "洛托姆的樣子"
+  },
+  {
+    "no": 479,
+    "name": "Rotom",
+    "en-US": "Heat form",
+    "zh-TW": "加熱洛托姆"
+  },
+  {
+    "no": 479,
+    "name": "Rotom",
+    "en-US": "Wash form",
+    "zh-TW": "清洗洛托姆"
+  },
+  {
+    "no": 479,
+    "name": "Rotom",
+    "en-US": "Fan form",
+    "zh-TW": "旋轉洛托姆"
+  },
+  {
+    "no": 479,
+    "name": "Rotom",
+    "en-US": "Frost form",
+    "zh-TW": "結冰洛托姆"
+  },
+  {
+    "no": 479,
+    "name": "Rotom",
+    "en-US": "Mow form",
+    "zh-TW": "切割洛托姆"
+  },
+  {
+    "no": 487,
+    "name": "Giratina",
+    "en-US": "Altered Forme",
+    "zh-TW": "別種形態"
+  },
+  {
+    "no": 487,
+    "name": "Giratina",
+    "en-US": "Origin Forme",
+    "zh-TW": "起源形態"
+  },
+  {
+    "no": 492,
+    "name": "Shaymin",
+    "en-US": "Land Forme",
+    "zh-TW": "陸上形態"
+  },
+  {
+    "no": 492,
+    "name": "Shaymin",
+    "en-US": "Sky Forme",
+    "zh-TW": "天空形態"
+  },
+  {
+    "no": 493,
+    "name": "Arceus",
+    "en-US": "Normal Form",
+    "zh-TW": "普通的樣子"
+  },
+  {
+    "no": 493,
+    "name": "Arceus",
+    "en-US": "Bug form",
+    "zh-TW": "玉蟲石板"
+  },
+  {
+    "no": 493,
+    "name": "Arceus",
+    "en-US": "Dark form",
+    "zh-TW": "惡顏石板"
+  },
+  {
+    "no": 493,
+    "name": "Arceus",
+    "en-US": "Dragon form",
+    "zh-TW": "龍之石板"
+  },
+  {
+    "no": 493,
+    "name": "Arceus",
+    "en-US": "Electric form",
+    "zh-TW": "雷電石板"
+  },
+  {
+    "no": 493,
+    "name": "Arceus",
+    "en-US": "Fairy form",
+    "zh-TW": "妖精石板"
+  },
+  {
+    "no": 493,
+    "name": "Arceus",
+    "en-US": "Fighting form",
+    "zh-TW": "拳頭石板"
+  },
+  {
+    "no": 493,
+    "name": "Arceus",
+    "en-US": "Fire form",
+    "zh-TW": "火球石板"
+  },
+  {
+    "no": 493,
+    "name": "Arceus",
+    "en-US": "Flying form",
+    "zh-TW": "藍天石板"
+  },
+  {
+    "no": 493,
+    "name": "Arceus",
+    "en-US": "Ghost form",
+    "zh-TW": "妖怪石板"
+  },
+  {
+    "no": 493,
+    "name": "Arceus",
+    "en-US": "Grass form",
+    "zh-TW": "碧綠石板"
+  },
+  {
+    "no": 493,
+    "name": "Arceus",
+    "en-US": "Ground form",
+    "zh-TW": "大地石板"
+  },
+  {
+    "no": 493,
+    "name": "Arceus",
+    "en-US": "Ice form",
+    "zh-TW": "冰柱石板"
+  },
+  {
+    "no": 493,
+    "name": "Arceus",
+    "en-US": "Poison form",
+    "zh-TW": "劇毒石板"
+  },
+  {
+    "no": 493,
+    "name": "Arceus",
+    "en-US": "Psychic form",
+    "zh-TW": "神奇石板"
+  },
+  {
+    "no": 493,
+    "name": "Arceus",
+    "en-US": "Rock form",
+    "zh-TW": "岩石石板"
+  },
+  {
+    "no": 493,
+    "name": "Arceus",
+    "en-US": "Steel form",
+    "zh-TW": "鋼鐵石板"
+  },
+  {
+    "no": 493,
+    "name": "Arceus",
+    "en-US": "Water form",
+    "zh-TW": "水滴石板"
+  },
+  {
+    "no": 550,
+    "name": "Basculin",
+    "en-US": "Red-Striped form",
+    "zh-TW": "紅條紋的樣子"
+  },
+  {
+    "no": 550,
+    "name": "Basculin",
+    "en-US": "Blue-Striped form",
+    "zh-TW": "藍條紋的樣子"
+  },
+  {
+    "no": 554,
+    "name": "Darumaka",
+    "en-US": "Unovan form",
+    "zh-TW": "合眾地區"
+  },
+  {
+    "no": 554,
+    "name": "Darumaka",
+    "en-US": "Galarian form",
+    "zh-TW": "伽勒爾地區"
+  },
+  {
+    "no": 555,
+    "name": "Darmanitan",
+    "en-US": "Unovan Regular form",
+    "zh-TW": "合眾地區 一般的樣子"
+  },
+  {
+    "no": 555,
+    "name": "Darmanitan",
+    "en-US": "Galarian Regular form",
+    "zh-TW": "伽勒爾地區 一般的樣子"
+  },
+  {
+    "no": 555,
+    "name": "Darmanitan",
+    "en-US": "Unovan Zen form",
+    "zh-TW": "合眾地區 達摩模式"
+  },
+  {
+    "no": 555,
+    "name": "Darmanitan",
+    "en-US": "Galarian Zen form",
+    "zh-TW": "伽勒爾地區 達摩模式"
+  },
+  {
+    "no": 555,
+    "name": "Darmanitan",
+    "en-US": "Standard Mode",
+    "zh-TW": "一般的樣子"
+  },
+  {
+    "no": 555,
+    "name": "Darmanitan",
+    "en-US": "Zen Mode",
+    "zh-TW": "達摩模式"
+  },
+  {
+    "no": 562,
+    "name": "Yamask",
+    "en-US": "Unovan form",
+    "zh-TW": "合眾地區"
+  },
+  {
+    "no": 562,
+    "name": "Yamask",
+    "en-US": "Galarian form",
+    "zh-TW": "伽勒爾地區"
+  },
+  {
+    "no": 585,
+    "name": "Deerling",
+    "en-US": "Spring form",
+    "zh-TW": "春天的樣子"
+  },
+  {
+    "no": 585,
+    "name": "Deerling",
+    "en-US": "Summer form",
+    "zh-TW": "夏天的樣子"
+  },
+  {
+    "no": 585,
+    "name": "Deerling",
+    "en-US": "Autumn form",
+    "zh-TW": "秋天的樣子"
+  },
+  {
+    "no": 585,
+    "name": "Deerling",
+    "en-US": "Winter form",
+    "zh-TW": "冬天的樣子"
+  },
+  {
+    "no": 586,
+    "name": "Sawsbuck",
+    "en-US": "Spring form",
+    "zh-TW": "春天的樣子"
+  },
+  {
+    "no": 586,
+    "name": "Sawsbuck",
+    "en-US": "Summer form",
+    "zh-TW": "夏天的樣子"
+  },
+  {
+    "no": 586,
+    "name": "Sawsbuck",
+    "en-US": "Autumn form",
+    "zh-TW": "秋天的樣子"
+  },
+  {
+    "no": 586,
+    "name": "Sawsbuck",
+    "en-US": "Winter form",
+    "zh-TW": "冬天的樣子"
+  },
+  {
+    "no": 618,
+    "name": "Stunfisk",
+    "en-US": "Unovan form",
+    "zh-TW": "合眾地區"
+  },
+  {
+    "no": 618,
+    "name": "Stunfisk",
+    "en-US": "Galarian form",
+    "zh-TW": "伽勒爾地區"
+  },
+  {
+    "no": 641,
+    "name": "Tornadus",
+    "en-US": "Incarnate Forme",
+    "zh-TW": "化身形態"
+  },
+  {
+    "no": 641,
+    "name": "Tornadus",
+    "en-US": "Therian Forme",
+    "zh-TW": "靈獸形態"
+  },
+  {
+    "no": 642,
+    "name": "Thundurus",
+    "en-US": "Incarnate Forme",
+    "zh-TW": "化身形態"
+  },
+  {
+    "no": 642,
+    "name": "Thundurus",
+    "en-US": "Therian Forme",
+    "zh-TW": "靈獸形態"
+  },
+  {
+    "no": 645,
+    "name": "Landorus",
+    "en-US": "Incarnate Forme",
+    "zh-TW": "化身形態"
+  },
+  {
+    "no": 645,
+    "name": "Landorus",
+    "en-US": "Therian Forme",
+    "zh-TW": "靈獸形態"
+  },
+  {
+    "no": 646,
+    "name": "Kyurem",
+    "en-US": "Regular Kyurem",
+    "zh-TW": "酋雷姆的樣子"
+  },
+  {
+    "no": 646,
+    "name": "Kyurem",
+    "en-US": "White Kyurem",
+    "zh-TW": "焰白酋雷姆"
+  },
+  {
+    "no": 646,
+    "name": "Kyurem",
+    "en-US": "Black Kyurem",
+    "zh-TW": "闇黑酋雷姆"
+  },
+  {
+    "no": 647,
+    "name": "Keldeo",
+    "en-US": "Ordinary Form",
+    "zh-TW": "平常的樣子"
+  },
+  {
+    "no": 647,
+    "name": "Keldeo",
+    "en-US": "Resolute Form",
+    "zh-TW": "覺悟的樣子"
+  },
+  {
+    "no": 648,
+    "name": "Meloetta",
+    "en-US": "Aria Form",
+    "zh-TW": "歌聲形態"
+  },
+  {
+    "no": 648,
+    "name": "Meloetta",
+    "en-US": "Pirouette Form",
+    "zh-TW": "舞步形態"
+  },
+  {
+    "no": 649,
+    "name": "Genesect",
+    "en-US": "Regular",
+    "zh-TW": "蓋諾賽克特的樣子"
+  },
+  {
+    "no": 649,
+    "name": "Genesect",
+    "en-US": "Shock Drive",
+    "zh-TW": "閃電卡帶"
+  },
+  {
+    "no": 649,
+    "name": "Genesect",
+    "en-US": "Burn Drive",
+    "zh-TW": "火焰卡帶"
+  },
+  {
+    "no": 649,
+    "name": "Genesect",
+    "en-US": "Chill Drive",
+    "zh-TW": "冰凍卡帶"
+  },
+  {
+    "no": 649,
+    "name": "Genesect",
+    "en-US": "Douse Drive",
+    "zh-TW": "水流卡帶"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "patterns": [
+      "Kantonian form",
+      "Kantonian",
+      "Kanto"
+    ],
+    "zh-TW": "關都"
+  },
+  {
+    "patterns": [
+      "Unovan form",
+      "Unovan",
+      "Unova"
+    ],
+    "zh-TW": "合眾"
+  },
+  {
+    "patterns": [
+      "Alolan form",
+      "Alolan",
+      "Alola"
+    ],
+    "zh-TW": "阿羅拉"
+  },
+  {
+    "patterns": [
+      "Galarian form",
+      "Galarian",
+      "Galar"
+    ],
+    "zh-TW": "伽勒爾"
+  }
+]
