@@ -1,6 +1,6 @@
 {
   "name": "pmgo-pokedex",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Provide Pokemon GO pokedex data and useful translation.",
   "main": "dist/src/index.js",
   "repository": "https://github.com/pmgo-professor-willow/pmgo-pokedex",
