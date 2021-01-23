@@ -1,8 +1,8 @@
 // Node modules.
 import _ from 'lodash';
-// Local modules.
-import pokemonList from '../data/pokemon-list.json';
-import formList from '../data/form-list.json';
+
+const pokemonList: PokemonName[] = require('../data/pokemon-list.json');
+const formList: PokemonForm[] = require('../data/form-list.json');
 
 type Locale = 'en-US' | 'zh-TW';
 

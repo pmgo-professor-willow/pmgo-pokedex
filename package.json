@@ -1,12 +1,17 @@
 {
   "name": "pmgo-pokedex",
   "version": "0.1.0",
-  "description": "",
+  "description": "Provide Pokemon GO pokedex data and useful translation.",
   "main": "dist/src/index.js",
-  "repository": "https://github.com/wazho/pmgo-pokedex",
-  "author": "Ze-Hao Wang",
+  "repository": "https://github.com/pmgo-professor-willow/pmgo-pokedex",
+  "author": "Ze-Hao Wang <salmon.zh.tw@gmail.com> (https://salmon.tw)",
   "license": "MIT",
+  "keywords": [
+    "pokemon",
+    "pokemongo"
+  ],
   "scripts": {
+    "build": "tsc",
     "start": "ts-node ./src/index.ts"
   },
   "dependencies": {
