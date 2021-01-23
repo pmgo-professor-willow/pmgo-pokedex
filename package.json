@@ -1,8 +1,8 @@
 {
   "name": "pmgo-pokedex",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Provide Pokemon GO pokedex data and useful translation.",
-  "main": "dist/src/index.js",
+  "main": "dist/index.js",
   "repository": "https://github.com/pmgo-professor-willow/pmgo-pokedex",
   "author": "Ze-Hao Wang <salmon.zh.tw@gmail.com> (https://salmon.tw)",
   "license": "MIT",
