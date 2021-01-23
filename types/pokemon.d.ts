@@ -11,3 +11,9 @@ declare interface PokemonForm {
   'en-US'?: string;
   'zh-TW'?: string;
 }
+
+declare interface Region {
+  patterns: string[];
+  'en-US': string;
+  'zh-TW': string;
+}

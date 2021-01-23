@@ -3,6 +3,7 @@ import _ from 'lodash';
 
 const pokemonList: PokemonName[] = require('../data/pokemon-list.json');
 const formList: PokemonForm[] = require('../data/form-list.json');
+const regionList: Region[] = require('../data/region-list.json');
 
 type Locale = 'en-US' | 'zh-TW';
 
@@ -35,6 +36,15 @@ const transPokemonName = (pokemonName: string, pokemonNo: number, targetLocale: 
           form[targetLocale]!,
         );
       }
+    });
+    // Replace regional.
+    regionList.forEach((region) => {
+      region.patterns.forEach((pattern) => {
+        translatedName = translatedName.replace(
+          new RegExp(pattern, 'i'),
+          region[targetLocale],
+        );
+      });
     });
   }
 

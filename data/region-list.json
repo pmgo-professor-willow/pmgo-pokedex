@@ -5,6 +5,7 @@
       "Kantonian",
       "Kanto"
     ],
+    "en-US": "Kanto",
     "zh-TW": "關都"
   },
   {
@@ -13,6 +14,7 @@
       "Unovan",
       "Unova"
     ],
+    "en-US": "Unova",
     "zh-TW": "合眾"
   },
   {
@@ -21,6 +23,7 @@
       "Alolan",
       "Alola"
     ],
+    "en-US": "Alola",
     "zh-TW": "阿羅拉"
   },
   {
@@ -29,6 +32,7 @@
       "Galarian",
       "Galar"
     ],
+    "en-US": "Galar",
     "zh-TW": "伽勒爾"
   }
 ]
