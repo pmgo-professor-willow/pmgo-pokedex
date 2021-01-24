@@ -15,6 +15,11 @@ const getFormsByNo = (pokemonNo: number) => {
   return formList.filter((pokemon) => pokemon.no === pokemonNo);
 };
 
+const getPokemonNameByNo = (pokemonNo: number, locale: Locale = 'zh-TW') => {
+  const foundPokemon = pokemonList.find((pokemon) => pokemon.no === pokemonNo);
+  return foundPokemon ? foundPokemon[locale] : null;
+};
+
 const transPokemonName = (pokemonName: string, pokemonNo: number, targetLocale: Locale = 'zh-TW') => {
   const baseLocale: Locale = 'en-US';
   const pokemon = getPokemonByNo(pokemonNo);
@@ -52,5 +57,6 @@ const transPokemonName = (pokemonName: string, pokemonNo: number, targetLocale: 
 };
 
 export {
+  getPokemonNameByNo,
   transPokemonName,
 };
