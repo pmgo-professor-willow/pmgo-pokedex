@@ -17,3 +17,9 @@ declare interface Region {
   'en-US': string;
   'zh-TW': string;
 }
+
+declare interface Type {
+  patterns: string[];
+  'en-US': string;
+  'zh-TW': string;
+}
