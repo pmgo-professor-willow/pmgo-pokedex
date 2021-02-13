@@ -39,7 +39,7 @@ const main = async () => {
 
   try {
     const pokemonList = await getNameList();
-    await writeFile(`${outputPath}/pokemon-list.json`, JSON.stringify(pokemonList, null, 2));
+    await writeFile(`${outputPath}/pokemon-name-list.json`, JSON.stringify(pokemonList, null, 2));
   } catch (e) {
     console.error(e);
   }

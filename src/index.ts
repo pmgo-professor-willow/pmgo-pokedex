@@ -2,7 +2,7 @@
 import _ from 'lodash';
 import { findBestMatch } from 'string-similarity';
 
-const pokemonList: PokemonName[] = require('../data/pokemon-list.json');
+const pokemonNameList: PokemonName[] = require('../data/pokemon-name-list.json');
 const formList: PokemonForm[] = require('../data/form-list.json');
 const regionList: Region[] = require('../data/region-list.json');
 const typeList: Type[] = require('../data/type-list.json');
@@ -16,7 +16,7 @@ interface Pokemon {
 }
 
 const getPokemonByNo = (pokemonNo: number) => {
-  return pokemonList.find((pokemon) => pokemon.no === pokemonNo);
+  return pokemonNameList.find((pokemon) => pokemon.no === pokemonNo);
 };
 
 const getFormsByNo = (pokemonNo: number) => {
@@ -24,14 +24,14 @@ const getFormsByNo = (pokemonNo: number) => {
 };
 
 const getPokemonNameByNo = (pokemonNo: number, locale: Locale = 'zh-TW') => {
-  const foundPokemon = pokemonList.find((pokemon) => pokemon.no === pokemonNo);
+  const foundPokemon = pokemonNameList.find((pokemon) => pokemon.no === pokemonNo);
   return foundPokemon ? foundPokemon[locale] : null;
 };
 
 const getPokemonByFuzzyName = (pokemonName: string, targetLocale: Locale = 'zh-TW'): Pokemon => {
-  const { bestMatchIndex } = findBestMatch(pokemonName, pokemonList.map((pokemon) => pokemon['en-US']));
+  const { bestMatchIndex } = findBestMatch(pokemonName, pokemonNameList.map((pokemon) => pokemon['en-US']));
 
-  const matchedPokemon = pokemonList[bestMatchIndex];
+  const matchedPokemon = pokemonNameList[bestMatchIndex];
 
   let form = "";
   regionList.forEach((region) => {
