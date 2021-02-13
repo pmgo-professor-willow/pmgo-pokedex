@@ -5,6 +5,13 @@ declare interface PokemonName {
   'zh-CN': string;
 }
 
+declare interface Pokemon {
+  no: number;
+  name: string;
+  form: string;
+  types: string[];
+}
+
 declare interface PokemonForm {
   no: number;
   name: string;
