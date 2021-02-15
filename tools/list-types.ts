@@ -90,8 +90,8 @@ const getTypeList = async () => {
       'zh-TW': '鋼',
     },
     {
-      patterns: ['fiary-type', 'fiary type', 'fiary'],
-      'en-US': 'Fiary',
+      patterns: ['fairy-type', 'fairy type', 'fairy'],
+      'en-US': 'Fairy',
       'zh-TW': '妖精',
     },
   ];

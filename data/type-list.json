@@ -154,11 +154,11 @@
   },
   {
     "patterns": [
-      "fiary-type",
-      "fiary type",
-      "fiary"
+      "fairy-type",
+      "fairy type",
+      "fairy"
     ],
-    "en-US": "Fiary",
+    "en-US": "Fairy",
     "zh-TW": "妖精"
   }
 ]
