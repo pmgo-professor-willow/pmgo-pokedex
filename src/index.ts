@@ -62,14 +62,16 @@ const transPokemonName = (pokemonName: string, pokemonNo: number, targetLocale: 
       new RegExp(pokemon[baseLocale], 'i'),
       pokemon[targetLocale],
     );
+
     // Replace form type.
     const filteredForms = forms.filter((form) => form.no === pokemonNo);
-    const { bestMatchIndex } = findBestMatch(translatedName, filteredForms.map((form) => form['en-US']!));
-
-    if (bestMatchIndex >= 0) {
-      // TODO: make it better.
-      const form = filteredForms[bestMatchIndex][targetLocale];
-      translatedName = `${pokemon[targetLocale]} (${form})`;
+    if (filteredForms.length > 0) {
+      const { bestMatchIndex } = findBestMatch(translatedName, filteredForms.map((form) => form['en-US']!));
+      if (bestMatchIndex >= 0) {
+        // TODO: make it better.
+        const form = filteredForms[bestMatchIndex][targetLocale];
+        translatedName = `${pokemon[targetLocale]} (${form})`;
+      }
     }
 
     // Replace regional.
@@ -98,5 +100,3 @@ export {
   transPokemonName,
   transType,
 };
-
-console.log(transPokemonName('Landorus (Incarnate)', 645));
