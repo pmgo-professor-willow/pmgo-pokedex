@@ -1,6 +1,6 @@
 {
   "name": "pmgo-pokedex",
-  "version": "0.1.10",
+  "version": "0.1.12",
   "description": "Provide Pokemon GO pokedex data and useful translation.",
   "main": "dist/index.js",
   "repository": "https://github.com/pmgo-professor-willow/pmgo-pokedex",
@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "fs-extra": "^9.0.1",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "node-fetch": "^2.6.1",
     "node-html-parser": "^2.0.0",
     "string-similarity": "^4.0.4",
@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@types/fs-extra": "^9.0.5",
-    "@types/lodash": "^4.14.165",
+    "@types/lodash": "^4.14.168",
     "@types/node": "^14.14.14",
     "@types/node-fetch": "^2.5.7",
     "@types/string-similarity": "^4.0.0",
