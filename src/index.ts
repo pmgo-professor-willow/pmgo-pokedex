@@ -66,11 +66,13 @@ const transPokemonName = (pokemonName: string, pokemonNo: number, targetLocale: 
     // Replace form type.
     const filteredForms = forms.filter((form) => form.no === pokemonNo);
     if (filteredForms.length > 0) {
-      const { bestMatchIndex } = findBestMatch(translatedName, filteredForms.map((form) => form['en-US']!));
+      const { bestMatchIndex } = findBestMatch(translatedName, filteredForms.map((form) => form['en-US'] || ''));
       if (bestMatchIndex >= 0) {
         // TODO: make it better.
         const form = filteredForms[bestMatchIndex][targetLocale];
-        translatedName = `${pokemon[targetLocale]} (${form})`;
+        translatedName = form
+          ? `${pokemon[targetLocale]} (${form})`
+          : pokemon[targetLocale];
       }
     }
 

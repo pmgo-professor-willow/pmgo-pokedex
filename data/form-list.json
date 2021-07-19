@@ -216,6 +216,18 @@
     "zh-TW": "伽勒爾地區"
   },
   {
+    "no": 80,
+    "name": "Slowbro",
+    "en-US": "Kantonian form",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 80,
+    "name": "Slowbro",
+    "en-US": "Galarian form",
+    "zh-TW": "伽勒爾地區"
+  },
+  {
     "no": 83,
     "name": "Farfetch'd",
     "en-US": "Kantonian form",
@@ -306,6 +318,18 @@
   {
     "no": 150,
     "name": "Mewtwo"
+  },
+  {
+    "no": 199,
+    "name": "Slowking",
+    "en-US": "Johtonian form",
+    "zh-TW": "城都地區"
+  },
+  {
+    "no": 199,
+    "name": "Slowking",
+    "en-US": "Galarian form",
+    "zh-TW": "伽勒爾地區"
   },
   {
     "no": 263,
@@ -858,5 +882,17 @@
     "name": "Genesect",
     "en-US": "Douse Drive",
     "zh-TW": "水流卡帶"
+  },
+  {
+    "no": 716,
+    "name": "Xerneas",
+    "en-US": "Neutral Form",
+    "zh-TW": "放鬆模式"
+  },
+  {
+    "no": 716,
+    "name": "Xerneas",
+    "en-US": "Active Form",
+    "zh-TW": "活躍模式"
   }
 ]
