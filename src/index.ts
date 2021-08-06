@@ -39,6 +39,12 @@ const getPokemonByFuzzyName = (pokemonName: string, targetLocale: Locale = 'zh-T
     });
   });
 
+  formList.forEach((f) => {
+    if (f.name === matchedPokemon.name && f['en-US'] === matchedPokemon.form) {
+      form = f[targetLocale] as string;
+    }
+  });
+
   const pokemon: Pokemon = {
     no: matchedPokemonName.no,
     name: matchedPokemonName[targetLocale],

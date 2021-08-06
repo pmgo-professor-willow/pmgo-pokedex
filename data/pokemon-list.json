@@ -4316,7 +4316,15 @@
   {
     "no": 422,
     "name": "Shellos",
-    "form": null,
+    "form": "East Sea",
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "no": 422,
+    "name": "Shellos",
+    "form": "West Sea",
     "types": [
       "Water"
     ]
@@ -4324,7 +4332,16 @@
   {
     "no": 423,
     "name": "Gastrodon",
-    "form": null,
+    "form": "East Sea",
+    "types": [
+      "Water",
+      "Ground"
+    ]
+  },
+  {
+    "no": 423,
+    "name": "Gastrodon",
+    "form": "West Sea",
     "types": [
       "Water",
       "Ground"
