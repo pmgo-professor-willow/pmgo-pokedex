@@ -2,358 +2,770 @@
   {
     "no": 19,
     "name": "Rattata",
-    "en-US": "Kantonian form",
+    "en-US": "Kantonian",
     "zh-TW": "關都地區"
   },
   {
     "no": 19,
     "name": "Rattata",
-    "en-US": "Alolan form",
+    "en-US": "Alolan",
     "zh-TW": "阿羅拉地區"
   },
   {
     "no": 20,
     "name": "Raticate",
-    "en-US": "Kantonian form",
+    "en-US": "Kantonian",
     "zh-TW": "關都地區"
   },
   {
     "no": 20,
     "name": "Raticate",
-    "en-US": "Alolan form",
+    "en-US": "Alolan",
     "zh-TW": "阿羅拉地區"
   },
   {
     "no": 26,
     "name": "Raichu",
-    "en-US": "Kantonian form",
+    "en-US": "Kantonian",
     "zh-TW": "關都地區"
   },
   {
     "no": 26,
     "name": "Raichu",
-    "en-US": "Alolan form",
+    "en-US": "Alolan",
     "zh-TW": "阿羅拉地區"
   },
   {
     "no": 27,
     "name": "Sandshrew",
-    "en-US": "Kantonian form",
+    "en-US": "Kantonian",
     "zh-TW": "關都地區"
   },
   {
     "no": 27,
     "name": "Sandshrew",
-    "en-US": "Alolan form",
+    "en-US": "Alolan",
     "zh-TW": "阿羅拉地區"
   },
   {
     "no": 28,
     "name": "Sandslash",
-    "en-US": "Kantonian form",
+    "en-US": "Kantonian",
     "zh-TW": "關都地區"
   },
   {
     "no": 28,
     "name": "Sandslash",
-    "en-US": "Alolan form",
+    "en-US": "Alolan",
     "zh-TW": "阿羅拉地區"
   },
   {
     "no": 37,
     "name": "Vulpix",
-    "en-US": "Kantonian form",
+    "en-US": "Kantonian",
     "zh-TW": "關都地區"
   },
   {
     "no": 37,
     "name": "Vulpix",
-    "en-US": "Alolan form",
+    "en-US": "Alolan",
     "zh-TW": "阿羅拉地區"
   },
   {
     "no": 38,
     "name": "Ninetales",
-    "en-US": "Kantonian form",
+    "en-US": "Kantonian",
     "zh-TW": "關都地區"
   },
   {
     "no": 38,
     "name": "Ninetales",
-    "en-US": "Alolan form",
+    "en-US": "Alolan",
     "zh-TW": "阿羅拉地區"
   },
   {
     "no": 50,
     "name": "Diglett",
-    "en-US": "Kantonian form",
+    "en-US": "Kantonian",
     "zh-TW": "關都地區"
   },
   {
     "no": 50,
     "name": "Diglett",
-    "en-US": "Alolan form",
+    "en-US": "Alolan",
     "zh-TW": "阿羅拉地區"
   },
   {
     "no": 51,
     "name": "Dugtrio",
-    "en-US": "Kantonian form",
+    "en-US": "Kantonian",
     "zh-TW": "關都地區"
   },
   {
     "no": 51,
     "name": "Dugtrio",
-    "en-US": "Alolan form",
+    "en-US": "Alolan",
     "zh-TW": "阿羅拉地區"
   },
   {
     "no": 52,
     "name": "Meowth",
-    "en-US": "Kantonian form",
+    "en-US": "Kantonian",
     "zh-TW": "關都地區"
   },
   {
     "no": 52,
     "name": "Meowth",
-    "en-US": "Alolan form",
+    "en-US": "Alolan",
     "zh-TW": "阿羅拉地區"
   },
   {
     "no": 52,
     "name": "Meowth",
-    "en-US": "Kantonian form",
+    "en-US": "Kantonian",
     "zh-TW": "關都地區"
   },
   {
     "no": 52,
     "name": "Meowth",
-    "en-US": "Galarian form",
+    "en-US": "Galarian",
     "zh-TW": "伽勒爾地區"
   },
   {
     "no": 53,
     "name": "Persian",
-    "en-US": "Kantonian form",
+    "en-US": "Kantonian",
     "zh-TW": "關都地區"
   },
   {
     "no": 53,
     "name": "Persian",
-    "en-US": "Alolan form",
+    "en-US": "Alolan",
     "zh-TW": "阿羅拉地區"
+  },
+  {
+    "no": 58,
+    "name": "Growlithe",
+    "en-US": "Kantonian",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 58,
+    "name": "Growlithe",
+    "en-US": "Hisuian",
+    "zh-TW": "洗翠地區"
+  },
+  {
+    "no": 59,
+    "name": "Arcanine",
+    "en-US": "Kantonian",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 59,
+    "name": "Arcanine",
+    "en-US": "Hisuian",
+    "zh-TW": "洗翠地區"
   },
   {
     "no": 74,
     "name": "Geodude",
-    "en-US": "Kantonian form",
+    "en-US": "Kantonian",
     "zh-TW": "關都地區"
   },
   {
     "no": 74,
     "name": "Geodude",
-    "en-US": "Alolan form",
+    "en-US": "Alolan",
     "zh-TW": "阿羅拉地區"
   },
   {
     "no": 75,
     "name": "Graveler",
-    "en-US": "Kantonian form",
+    "en-US": "Kantonian",
     "zh-TW": "關都地區"
   },
   {
     "no": 75,
     "name": "Graveler",
-    "en-US": "Alolan form",
+    "en-US": "Alolan",
     "zh-TW": "阿羅拉地區"
   },
   {
     "no": 76,
     "name": "Golem",
-    "en-US": "Kantonian form",
+    "en-US": "Kantonian",
     "zh-TW": "關都地區"
   },
   {
     "no": 76,
     "name": "Golem",
-    "en-US": "Alolan form",
+    "en-US": "Alolan",
     "zh-TW": "阿羅拉地區"
   },
   {
     "no": 77,
     "name": "Ponyta",
-    "en-US": "Kantonian form",
+    "en-US": "Kantonian",
     "zh-TW": "關都地區"
   },
   {
     "no": 77,
     "name": "Ponyta",
-    "en-US": "Galarian form",
+    "en-US": "Galarian",
     "zh-TW": "伽勒爾地區"
   },
   {
     "no": 78,
     "name": "Rapidash",
-    "en-US": "Kantonian form",
+    "en-US": "Kantonian",
     "zh-TW": "關都地區"
   },
   {
     "no": 78,
     "name": "Rapidash",
-    "en-US": "Galarian form",
+    "en-US": "Galarian",
     "zh-TW": "伽勒爾地區"
   },
   {
     "no": 79,
     "name": "Slowpoke",
-    "en-US": "Kantonian form",
+    "en-US": "Kantonian",
     "zh-TW": "關都地區"
   },
   {
     "no": 79,
     "name": "Slowpoke",
-    "en-US": "Galarian form",
+    "en-US": "Galarian",
     "zh-TW": "伽勒爾地區"
   },
   {
     "no": 80,
     "name": "Slowbro",
-    "en-US": "Kantonian form",
+    "en-US": "Kantonian",
     "zh-TW": "關都地區"
   },
   {
     "no": 80,
     "name": "Slowbro",
-    "en-US": "Galarian form",
+    "en-US": "Galarian",
     "zh-TW": "伽勒爾地區"
   },
   {
     "no": 83,
     "name": "Farfetch'd",
-    "en-US": "Kantonian form",
+    "en-US": "Kantonian",
     "zh-TW": "關都地區"
   },
   {
     "no": 83,
     "name": "Farfetch'd",
-    "en-US": "Galarian form",
+    "en-US": "Galarian",
     "zh-TW": "伽勒爾地區"
   },
   {
     "no": 88,
     "name": "Grimer",
-    "en-US": "Kantonian form",
+    "en-US": "Kantonian",
     "zh-TW": "關都地區"
   },
   {
     "no": 88,
     "name": "Grimer",
-    "en-US": "Alolan form",
+    "en-US": "Alolan",
     "zh-TW": "阿羅拉地區"
   },
   {
     "no": 89,
     "name": "Muk",
-    "en-US": "Kantonian form",
+    "en-US": "Kantonian",
     "zh-TW": "關都地區"
   },
   {
     "no": 89,
     "name": "Muk",
-    "en-US": "Alolan form",
+    "en-US": "Alolan",
     "zh-TW": "阿羅拉地區"
+  },
+  {
+    "no": 100,
+    "name": "Voltorb",
+    "en-US": "Kantonian",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 100,
+    "name": "Voltorb",
+    "en-US": "Hisuian",
+    "zh-TW": "洗翠地區"
+  },
+  {
+    "no": 101,
+    "name": "Electrode",
+    "en-US": "Kantonian",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 101,
+    "name": "Electrode",
+    "en-US": "Hisuian",
+    "zh-TW": "洗翠地區"
   },
   {
     "no": 103,
     "name": "Exeggutor",
-    "en-US": "Kantonian form",
+    "en-US": "Kantonian",
     "zh-TW": "關都地區"
   },
   {
     "no": 103,
     "name": "Exeggutor",
-    "en-US": "Alolan form",
+    "en-US": "Alolan",
     "zh-TW": "阿羅拉地區"
   },
   {
     "no": 105,
     "name": "Marowak",
-    "en-US": "Kantonian form",
+    "en-US": "Kantonian",
     "zh-TW": "關都地區"
   },
   {
     "no": 105,
     "name": "Marowak",
-    "en-US": "Alolan form",
+    "en-US": "Alolan",
     "zh-TW": "阿羅拉地區"
   },
   {
     "no": 110,
     "name": "Weezing",
-    "en-US": "Kantonian form",
+    "en-US": "Kantonian",
     "zh-TW": "關都地區"
   },
   {
     "no": 110,
     "name": "Weezing",
-    "en-US": "Galarian form",
+    "en-US": "Galarian",
     "zh-TW": "伽勒爾地區"
   },
   {
     "no": 122,
     "name": "Mr. Mime",
-    "en-US": "Kantonian form",
+    "en-US": "Kantonian",
     "zh-TW": "關都地區"
   },
   {
     "no": 122,
     "name": "Mr. Mime",
-    "en-US": "Galarian form",
+    "en-US": "Galarian",
     "zh-TW": "伽勒爾地區"
   },
   {
-    "no": 150,
-    "name": "Mewtwo"
+    "no": 144,
+    "name": "Articuno",
+    "en-US": "Kantonian",
+    "zh-TW": "關都地區"
   },
   {
-    "no": 150,
-    "name": "Mewtwo"
+    "no": 144,
+    "name": "Articuno",
+    "en-US": "Galarian",
+    "zh-TW": "伽勒爾地區"
+  },
+  {
+    "no": 145,
+    "name": "Zapdos",
+    "en-US": "Kantonian",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 145,
+    "name": "Zapdos",
+    "en-US": "Galarian",
+    "zh-TW": "伽勒爾地區"
+  },
+  {
+    "no": 146,
+    "name": "Moltres",
+    "en-US": "Kantonian",
+    "zh-TW": "關都地區"
+  },
+  {
+    "no": 146,
+    "name": "Moltres",
+    "en-US": "Galarian",
+    "zh-TW": "伽勒爾地區"
+  },
+  {
+    "no": 157,
+    "name": "Typhlosion",
+    "en-US": "Johtonian",
+    "zh-TW": "城都地區"
+  },
+  {
+    "no": 157,
+    "name": "Typhlosion",
+    "en-US": "Hisuian",
+    "zh-TW": "洗翠地區"
   },
   {
     "no": 199,
     "name": "Slowking",
-    "en-US": "Johtonian form",
+    "en-US": "Johtonian",
     "zh-TW": "城都地區"
   },
   {
     "no": 199,
     "name": "Slowking",
-    "en-US": "Galarian form",
+    "en-US": "Galarian",
+    "zh-TW": "伽勒爾地區"
+  },
+  {
+    "no": 201,
+    "name": "Unown",
+    "en-US": "A",
+    "zh-TW": "A"
+  },
+  {
+    "no": 201,
+    "name": "Unown",
+    "en-US": "B",
+    "zh-TW": "B"
+  },
+  {
+    "no": 201,
+    "name": "Unown",
+    "en-US": "C",
+    "zh-TW": "C"
+  },
+  {
+    "no": 201,
+    "name": "Unown",
+    "en-US": "D",
+    "zh-TW": "D"
+  },
+  {
+    "no": 201,
+    "name": "Unown",
+    "en-US": "E",
+    "zh-TW": "E"
+  },
+  {
+    "no": 201,
+    "name": "Unown",
+    "en-US": "F",
+    "zh-TW": "F"
+  },
+  {
+    "no": 201,
+    "name": "Unown",
+    "en-US": "G",
+    "zh-TW": "G"
+  },
+  {
+    "no": 201,
+    "name": "Unown",
+    "en-US": "H",
+    "zh-TW": "H"
+  },
+  {
+    "no": 201,
+    "name": "Unown",
+    "en-US": "I",
+    "zh-TW": "I"
+  },
+  {
+    "no": 201,
+    "name": "Unown",
+    "en-US": "J",
+    "zh-TW": "J"
+  },
+  {
+    "no": 201,
+    "name": "Unown",
+    "en-US": "K",
+    "zh-TW": "K"
+  },
+  {
+    "no": 201,
+    "name": "Unown",
+    "en-US": "L",
+    "zh-TW": "L"
+  },
+  {
+    "no": 201,
+    "name": "Unown",
+    "en-US": "M",
+    "zh-TW": "M"
+  },
+  {
+    "no": 201,
+    "name": "Unown",
+    "en-US": "N",
+    "zh-TW": "N"
+  },
+  {
+    "no": 201,
+    "name": "Unown",
+    "en-US": "O",
+    "zh-TW": "O"
+  },
+  {
+    "no": 201,
+    "name": "Unown",
+    "en-US": "P",
+    "zh-TW": "P"
+  },
+  {
+    "no": 201,
+    "name": "Unown",
+    "en-US": "Q",
+    "zh-TW": "Q"
+  },
+  {
+    "no": 201,
+    "name": "Unown",
+    "en-US": "R",
+    "zh-TW": "R"
+  },
+  {
+    "no": 201,
+    "name": "Unown",
+    "en-US": "S",
+    "zh-TW": "S"
+  },
+  {
+    "no": 201,
+    "name": "Unown",
+    "en-US": "T",
+    "zh-TW": "T"
+  },
+  {
+    "no": 201,
+    "name": "Unown",
+    "en-US": "U",
+    "zh-TW": "U"
+  },
+  {
+    "no": 201,
+    "name": "Unown",
+    "en-US": "V",
+    "zh-TW": "V"
+  },
+  {
+    "no": 201,
+    "name": "Unown",
+    "en-US": "W",
+    "zh-TW": "W"
+  },
+  {
+    "no": 201,
+    "name": "Unown",
+    "en-US": "X",
+    "zh-TW": "X"
+  },
+  {
+    "no": 201,
+    "name": "Unown",
+    "en-US": "Y",
+    "zh-TW": "Y"
+  },
+  {
+    "no": 201,
+    "name": "Unown",
+    "en-US": "Z",
+    "zh-TW": "Z"
+  },
+  {
+    "no": 201,
+    "name": "Unown",
+    "en-US": "!",
+    "zh-TW": "!"
+  },
+  {
+    "no": 201,
+    "name": "Unown",
+    "en-US": "?",
+    "zh-TW": "?"
+  },
+  {
+    "no": 211,
+    "name": "Qwilfish",
+    "en-US": "Johtonian",
+    "zh-TW": "城都地區"
+  },
+  {
+    "no": 211,
+    "name": "Qwilfish",
+    "en-US": "Hisuian",
+    "zh-TW": "洗翠地區"
+  },
+  {
+    "no": 215,
+    "name": "Sneasel",
+    "en-US": "Johtonian",
+    "zh-TW": "城都地區"
+  },
+  {
+    "no": 215,
+    "name": "Sneasel",
+    "en-US": "Hisuian",
+    "zh-TW": "洗翠地區"
+  },
+  {
+    "no": 222,
+    "name": "Corsola",
+    "en-US": "Johtonian",
+    "zh-TW": "城都地區"
+  },
+  {
+    "no": 222,
+    "name": "Corsola",
+    "en-US": "Galarian",
     "zh-TW": "伽勒爾地區"
   },
   {
     "no": 263,
     "name": "Zigzagoon",
-    "en-US": "Hoennian form",
+    "en-US": "Hoennian",
     "zh-TW": "豐緣地區"
   },
   {
     "no": 263,
     "name": "Zigzagoon",
-    "en-US": "Galarian form",
+    "en-US": "Galarian",
     "zh-TW": "伽勒爾地區"
   },
   {
     "no": 264,
     "name": "Linoone",
-    "en-US": "Hoennian form",
+    "en-US": "Hoennian",
     "zh-TW": "豐緣地區"
   },
   {
     "no": 264,
     "name": "Linoone",
-    "en-US": "Galarian form",
+    "en-US": "Galarian",
     "zh-TW": "伽勒爾地區"
+  },
+  {
+    "no": 327,
+    "name": "Spinda",
+    "en-US": "Pattern 1",
+    "zh-TW": "樣式 1"
+  },
+  {
+    "no": 327,
+    "name": "Spinda",
+    "en-US": "Pattern 2",
+    "zh-TW": "樣式 2"
+  },
+  {
+    "no": 327,
+    "name": "Spinda",
+    "en-US": "Pattern 3",
+    "zh-TW": "樣式 3"
+  },
+  {
+    "no": 327,
+    "name": "Spinda",
+    "en-US": "Pattern 4",
+    "zh-TW": "樣式 4"
+  },
+  {
+    "no": 327,
+    "name": "Spinda",
+    "en-US": "Pattern 5",
+    "zh-TW": "樣式 5"
+  },
+  {
+    "no": 327,
+    "name": "Spinda",
+    "en-US": "Pattern 6",
+    "zh-TW": "樣式 6"
+  },
+  {
+    "no": 327,
+    "name": "Spinda",
+    "en-US": "Pattern 7",
+    "zh-TW": "樣式 7"
+  },
+  {
+    "no": 327,
+    "name": "Spinda",
+    "en-US": "Pattern 8",
+    "zh-TW": "樣式 8"
+  },
+  {
+    "no": 327,
+    "name": "Spinda",
+    "en-US": "Pattern 9",
+    "zh-TW": "樣式 9"
+  },
+  {
+    "no": 327,
+    "name": "Spinda",
+    "en-US": "Pattern 10",
+    "zh-TW": "樣式 10"
+  },
+  {
+    "no": 327,
+    "name": "Spinda",
+    "en-US": "Pattern 11",
+    "zh-TW": "樣式 11"
+  },
+  {
+    "no": 327,
+    "name": "Spinda",
+    "en-US": "Pattern 12",
+    "zh-TW": "樣式 12"
+  },
+  {
+    "no": 327,
+    "name": "Spinda",
+    "en-US": "Pattern 13",
+    "zh-TW": "樣式 13"
+  },
+  {
+    "no": 327,
+    "name": "Spinda",
+    "en-US": "Pattern 14",
+    "zh-TW": "樣式 14"
+  },
+  {
+    "no": 327,
+    "name": "Spinda",
+    "en-US": "Pattern 15",
+    "zh-TW": "樣式 15"
+  },
+  {
+    "no": 327,
+    "name": "Spinda",
+    "en-US": "Pattern 16",
+    "zh-TW": "樣式 16"
+  },
+  {
+    "no": 327,
+    "name": "Spinda",
+    "en-US": "Pattern 17",
+    "zh-TW": "樣式 17"
+  },
+  {
+    "no": 327,
+    "name": "Spinda",
+    "en-US": "Pattern 18",
+    "zh-TW": "樣式 18"
+  },
+  {
+    "no": 327,
+    "name": "Spinda",
+    "en-US": "Pattern 19",
+    "zh-TW": "樣式 19"
+  },
+  {
+    "no": 327,
+    "name": "Spinda",
+    "en-US": "Pattern 20",
+    "zh-TW": "樣式 20"
   },
   {
     "no": 351,
@@ -378,6 +790,18 @@
     "name": "Castform",
     "en-US": "Snowy",
     "zh-TW": "雪雲的樣子"
+  },
+  {
+    "no": 382,
+    "name": "Kyogre",
+    "en-US": "Primal Form",
+    "zh-TW": "原始回歸形態"
+  },
+  {
+    "no": 383,
+    "name": "Groudon",
+    "en-US": "Primal Form",
+    "zh-TW": "原始回歸形態"
   },
   {
     "no": 386,
@@ -478,37 +902,37 @@
   {
     "no": 479,
     "name": "Rotom",
-    "en-US": "Regular form",
+    "en-US": "Regular",
     "zh-TW": "洛托姆的樣子"
   },
   {
     "no": 479,
     "name": "Rotom",
-    "en-US": "Heat form",
+    "en-US": "Heat",
     "zh-TW": "加熱洛托姆"
   },
   {
     "no": 479,
     "name": "Rotom",
-    "en-US": "Wash form",
+    "en-US": "Wash",
     "zh-TW": "清洗洛托姆"
   },
   {
     "no": 479,
     "name": "Rotom",
-    "en-US": "Fan form",
+    "en-US": "Fan",
     "zh-TW": "旋轉洛托姆"
   },
   {
     "no": 479,
     "name": "Rotom",
-    "en-US": "Frost form",
+    "en-US": "Frost",
     "zh-TW": "結冰洛托姆"
   },
   {
     "no": 479,
     "name": "Rotom",
-    "en-US": "Mow form",
+    "en-US": "Mow",
     "zh-TW": "切割洛托姆"
   },
   {
@@ -538,164 +962,194 @@
   {
     "no": 493,
     "name": "Arceus",
-    "en-US": "Normal Form",
+    "en-US": "Normal",
     "zh-TW": "普通的樣子"
   },
   {
     "no": 493,
     "name": "Arceus",
-    "en-US": "Bug form",
+    "en-US": "Bug",
     "zh-TW": "玉蟲石板"
   },
   {
     "no": 493,
     "name": "Arceus",
-    "en-US": "Dark form",
+    "en-US": "Dark",
     "zh-TW": "惡顏石板"
   },
   {
     "no": 493,
     "name": "Arceus",
-    "en-US": "Dragon form",
+    "en-US": "Dragon",
     "zh-TW": "龍之石板"
   },
   {
     "no": 493,
     "name": "Arceus",
-    "en-US": "Electric form",
+    "en-US": "Electric",
     "zh-TW": "雷電石板"
   },
   {
     "no": 493,
     "name": "Arceus",
-    "en-US": "Fairy form",
+    "en-US": "Fairy",
     "zh-TW": "妖精石板"
   },
   {
     "no": 493,
     "name": "Arceus",
-    "en-US": "Fighting form",
+    "en-US": "Fighting",
     "zh-TW": "拳頭石板"
   },
   {
     "no": 493,
     "name": "Arceus",
-    "en-US": "Fire form",
+    "en-US": "Fire",
     "zh-TW": "火球石板"
   },
   {
     "no": 493,
     "name": "Arceus",
-    "en-US": "Flying form",
+    "en-US": "Flying",
     "zh-TW": "藍天石板"
   },
   {
     "no": 493,
     "name": "Arceus",
-    "en-US": "Ghost form",
+    "en-US": "Ghost",
     "zh-TW": "妖怪石板"
   },
   {
     "no": 493,
     "name": "Arceus",
-    "en-US": "Grass form",
+    "en-US": "Grass",
     "zh-TW": "碧綠石板"
   },
   {
     "no": 493,
     "name": "Arceus",
-    "en-US": "Ground form",
+    "en-US": "Ground",
     "zh-TW": "大地石板"
   },
   {
     "no": 493,
     "name": "Arceus",
-    "en-US": "Ice form",
+    "en-US": "Ice",
     "zh-TW": "冰柱石板"
   },
   {
     "no": 493,
     "name": "Arceus",
-    "en-US": "Poison form",
+    "en-US": "Poison",
     "zh-TW": "劇毒石板"
   },
   {
     "no": 493,
     "name": "Arceus",
-    "en-US": "Psychic form",
+    "en-US": "Psychic",
     "zh-TW": "神奇石板"
   },
   {
     "no": 493,
     "name": "Arceus",
-    "en-US": "Rock form",
+    "en-US": "Rock",
     "zh-TW": "岩石石板"
   },
   {
     "no": 493,
     "name": "Arceus",
-    "en-US": "Steel form",
+    "en-US": "Steel",
     "zh-TW": "鋼鐵石板"
   },
   {
     "no": 493,
     "name": "Arceus",
-    "en-US": "Water form",
+    "en-US": "Water",
     "zh-TW": "水滴石板"
+  },
+  {
+    "no": 503,
+    "name": "Samurott",
+    "en-US": "Unovian",
+    "zh-TW": "合眾"
+  },
+  {
+    "no": 503,
+    "name": "Samurott",
+    "en-US": "Hisuian",
+    "zh-TW": "洗翠地區"
+  },
+  {
+    "no": 549,
+    "name": "Lilligant",
+    "en-US": "Unovian",
+    "zh-TW": "合眾"
+  },
+  {
+    "no": 549,
+    "name": "Lilligant",
+    "en-US": "Hisuian",
+    "zh-TW": "洗翠地區"
   },
   {
     "no": 550,
     "name": "Basculin",
-    "en-US": "Red-Striped form",
+    "en-US": "Red-Striped",
     "zh-TW": "紅條紋的樣子"
   },
   {
     "no": 550,
     "name": "Basculin",
-    "en-US": "Blue-Striped form",
+    "en-US": "Blue-Striped",
     "zh-TW": "藍條紋的樣子"
+  },
+  {
+    "no": 550,
+    "name": "Basculin",
+    "en-US": "White-Striped",
+    "zh-TW": "白條紋的樣子"
   },
   {
     "no": 554,
     "name": "Darumaka",
-    "en-US": "Unovan form",
+    "en-US": "Unovan",
     "zh-TW": "合眾地區"
   },
   {
     "no": 554,
     "name": "Darumaka",
-    "en-US": "Galarian form",
+    "en-US": "Galarian",
     "zh-TW": "伽勒爾地區"
   },
   {
     "no": 555,
     "name": "Darmanitan",
-    "en-US": "Unovan Regular form",
+    "en-US": "Unovan Regular",
     "zh-TW": "合眾地區 一般的樣子"
   },
   {
     "no": 555,
     "name": "Darmanitan",
-    "en-US": "Galarian Regular form",
-    "zh-TW": "伽勒爾地區 一般的樣子"
+    "en-US": "Galarian Regular",
+    "zh-TW": "伽勒爾地區 普通模式"
   },
   {
     "no": 555,
     "name": "Darmanitan",
-    "en-US": "Unovan Zen form",
+    "en-US": "Unovan Zen",
     "zh-TW": "合眾地區 達摩模式"
   },
   {
     "no": 555,
     "name": "Darmanitan",
-    "en-US": "Galarian Zen form",
+    "en-US": "Galarian Zen",
     "zh-TW": "伽勒爾地區 達摩模式"
   },
   {
     "no": 555,
     "name": "Darmanitan",
     "en-US": "Standard Mode",
-    "zh-TW": "一般的樣子"
+    "zh-TW": "普通模式"
   },
   {
     "no": 555,
@@ -706,74 +1160,130 @@
   {
     "no": 562,
     "name": "Yamask",
-    "en-US": "Unovan form",
+    "en-US": "Unovan",
     "zh-TW": "合眾地區"
   },
   {
     "no": 562,
     "name": "Yamask",
-    "en-US": "Galarian form",
+    "en-US": "Galarian",
     "zh-TW": "伽勒爾地區"
   },
   {
+    "no": 570,
+    "name": "Zorua",
+    "en-US": "Unovian",
+    "zh-TW": "合眾"
+  },
+  {
+    "no": 570,
+    "name": "Zorua",
+    "en-US": "Hisuian",
+    "zh-TW": "洗翠地區"
+  },
+  {
+    "no": 571,
+    "name": "Zoroark",
+    "en-US": "Unovian",
+    "zh-TW": "合眾"
+  },
+  {
+    "no": 571,
+    "name": "Zoroark",
+    "en-US": "Hisuian",
+    "zh-TW": "洗翠地區"
+  },
+  {
     "no": 585,
     "name": "Deerling",
-    "en-US": "Spring form",
+    "en-US": "Spring",
     "zh-TW": "春天的樣子"
   },
   {
     "no": 585,
     "name": "Deerling",
-    "en-US": "Summer form",
+    "en-US": "Summer",
     "zh-TW": "夏天的樣子"
   },
   {
     "no": 585,
     "name": "Deerling",
-    "en-US": "Autumn form",
+    "en-US": "Autumn",
     "zh-TW": "秋天的樣子"
   },
   {
     "no": 585,
     "name": "Deerling",
-    "en-US": "Winter form",
+    "en-US": "Winter",
     "zh-TW": "冬天的樣子"
   },
   {
     "no": 586,
     "name": "Sawsbuck",
-    "en-US": "Spring form",
+    "en-US": "Spring",
     "zh-TW": "春天的樣子"
   },
   {
     "no": 586,
     "name": "Sawsbuck",
-    "en-US": "Summer form",
+    "en-US": "Summer",
     "zh-TW": "夏天的樣子"
   },
   {
     "no": 586,
     "name": "Sawsbuck",
-    "en-US": "Autumn form",
+    "en-US": "Autumn",
     "zh-TW": "秋天的樣子"
   },
   {
     "no": 586,
     "name": "Sawsbuck",
-    "en-US": "Winter form",
+    "en-US": "Winter",
     "zh-TW": "冬天的樣子"
+  },
+  {
+    "no": 592,
+    "name": "Frillish",
+    "en-US": "Male"
+  },
+  {
+    "no": 592,
+    "name": "Frillish",
+    "en-US": "Female"
+  },
+  {
+    "no": 593,
+    "name": "Jellicent",
+    "en-US": "Male"
+  },
+  {
+    "no": 593,
+    "name": "Jellicent",
+    "en-US": "Female"
   },
   {
     "no": 618,
     "name": "Stunfisk",
-    "en-US": "Unovan form",
+    "en-US": "Unovan",
     "zh-TW": "合眾地區"
   },
   {
     "no": 618,
     "name": "Stunfisk",
-    "en-US": "Galarian form",
+    "en-US": "Galarian",
     "zh-TW": "伽勒爾地區"
+  },
+  {
+    "no": 628,
+    "name": "Braviary",
+    "en-US": "Unovian",
+    "zh-TW": "合眾"
+  },
+  {
+    "no": 628,
+    "name": "Braviary",
+    "en-US": "Hisuian",
+    "zh-TW": "洗翠地區"
   },
   {
     "no": 641,
@@ -884,15 +1394,503 @@
     "zh-TW": "水流卡帶"
   },
   {
+    "no": 658,
+    "name": "Greninja",
+    "en-US": "Ash-Greninja",
+    "zh-TW": "小智甲賀忍蛙"
+  },
+  {
+    "no": 666,
+    "name": "Vivillon",
+    "en-US": "Archipelago",
+    "zh-TW": "群島花紋"
+  },
+  {
+    "no": 666,
+    "name": "Vivillon",
+    "en-US": "Continental",
+    "zh-TW": "大陸花紋"
+  },
+  {
+    "no": 666,
+    "name": "Vivillon",
+    "en-US": "Elegant",
+    "zh-TW": "高雅花紋"
+  },
+  {
+    "no": 666,
+    "name": "Vivillon",
+    "en-US": "Fancy",
+    "zh-TW": "幻彩花紋"
+  },
+  {
+    "no": 666,
+    "name": "Vivillon",
+    "en-US": "Garden",
+    "zh-TW": "庭園花紋"
+  },
+  {
+    "no": 666,
+    "name": "Vivillon",
+    "en-US": "High Plains",
+    "zh-TW": "荒野花紋"
+  },
+  {
+    "no": 666,
+    "name": "Vivillon",
+    "en-US": "Icy Snow",
+    "zh-TW": "冰雪花紋"
+  },
+  {
+    "no": 666,
+    "name": "Vivillon",
+    "en-US": "Jungle",
+    "zh-TW": "熱帶雨林花紋"
+  },
+  {
+    "no": 666,
+    "name": "Vivillon",
+    "en-US": "Marine",
+    "zh-TW": "大海花紋"
+  },
+  {
+    "no": 666,
+    "name": "Vivillon",
+    "en-US": "Meadow",
+    "zh-TW": "花園花紋"
+  },
+  {
+    "no": 666,
+    "name": "Vivillon",
+    "en-US": "Modern",
+    "zh-TW": "摩登花紋"
+  },
+  {
+    "no": 666,
+    "name": "Vivillon",
+    "en-US": "Monsoon",
+    "zh-TW": "驟雨花紋"
+  },
+  {
+    "no": 666,
+    "name": "Vivillon",
+    "en-US": "Ocean",
+    "zh-TW": "大洋花紋"
+  },
+  {
+    "no": 666,
+    "name": "Vivillon",
+    "en-US": "Poké Ball",
+    "zh-TW": "球球花紋"
+  },
+  {
+    "no": 666,
+    "name": "Vivillon",
+    "en-US": "Polar",
+    "zh-TW": "雪國花紋"
+  },
+  {
+    "no": 666,
+    "name": "Vivillon",
+    "en-US": "River",
+    "zh-TW": "大河花紋"
+  },
+  {
+    "no": 666,
+    "name": "Vivillon",
+    "en-US": "Sandstorm",
+    "zh-TW": "沙塵花紋"
+  },
+  {
+    "no": 666,
+    "name": "Vivillon",
+    "en-US": "Savanna",
+    "zh-TW": "熱帶草原花紋"
+  },
+  {
+    "no": 666,
+    "name": "Vivillon",
+    "en-US": "Sun",
+    "zh-TW": "太陽花紋"
+  },
+  {
+    "no": 666,
+    "name": "Vivillon",
+    "en-US": "Tundra",
+    "zh-TW": "雪原花紋"
+  },
+  {
+    "no": 668,
+    "name": "Pyroar",
+    "en-US": "Male"
+  },
+  {
+    "no": 668,
+    "name": "Pyroar",
+    "en-US": "Female"
+  },
+  {
+    "no": 669,
+    "name": "Flabébé",
+    "en-US": "Red color",
+    "zh-TW": "紅花"
+  },
+  {
+    "no": 669,
+    "name": "Flabébé",
+    "en-US": "Yellow color",
+    "zh-TW": "黃花"
+  },
+  {
+    "no": 669,
+    "name": "Flabébé",
+    "en-US": "Orange color",
+    "zh-TW": "橙花"
+  },
+  {
+    "no": 669,
+    "name": "Flabébé",
+    "en-US": "Blue color",
+    "zh-TW": "藍花"
+  },
+  {
+    "no": 669,
+    "name": "Flabébé",
+    "en-US": "White color",
+    "zh-TW": "白花"
+  },
+  {
+    "no": 670,
+    "name": "Floette",
+    "en-US": "Red color",
+    "zh-TW": "紅花"
+  },
+  {
+    "no": 670,
+    "name": "Floette",
+    "en-US": "Yellow color",
+    "zh-TW": "黃花"
+  },
+  {
+    "no": 670,
+    "name": "Floette",
+    "en-US": "Orange color",
+    "zh-TW": "橙花"
+  },
+  {
+    "no": 670,
+    "name": "Floette",
+    "en-US": "Blue color",
+    "zh-TW": "藍花"
+  },
+  {
+    "no": 670,
+    "name": "Floette",
+    "en-US": "White color",
+    "zh-TW": "白花"
+  },
+  {
+    "no": 671,
+    "name": "Florges",
+    "en-US": "Red color",
+    "zh-TW": "紅花"
+  },
+  {
+    "no": 671,
+    "name": "Florges",
+    "en-US": "Yellow color",
+    "zh-TW": "黃花"
+  },
+  {
+    "no": 671,
+    "name": "Florges",
+    "en-US": "Orange color",
+    "zh-TW": "橙花"
+  },
+  {
+    "no": 671,
+    "name": "Florges",
+    "en-US": "Blue color",
+    "zh-TW": "藍花"
+  },
+  {
+    "no": 671,
+    "name": "Florges",
+    "en-US": "White color",
+    "zh-TW": "白花"
+  },
+  {
+    "no": 676,
+    "name": "Furfrou",
+    "en-US": "Natural",
+    "zh-TW": "野生的樣子"
+  },
+  {
+    "no": 676,
+    "name": "Furfrou",
+    "en-US": "Matron",
+    "zh-TW": "貴婦造型"
+  },
+  {
+    "no": 676,
+    "name": "Furfrou",
+    "en-US": "Dandy",
+    "zh-TW": "紳士造型"
+  },
+  {
+    "no": 676,
+    "name": "Furfrou",
+    "en-US": "Debutante",
+    "zh-TW": "淑女造型"
+  },
+  {
+    "no": 676,
+    "name": "Furfrou",
+    "en-US": "Diamond",
+    "zh-TW": "菱形造型"
+  },
+  {
+    "no": 676,
+    "name": "Furfrou",
+    "en-US": "Star",
+    "zh-TW": "星形造型"
+  },
+  {
+    "no": 676,
+    "name": "Furfrou",
+    "en-US": "La reine",
+    "zh-TW": "女王造型"
+  },
+  {
+    "no": 676,
+    "name": "Furfrou",
+    "en-US": "Kabuki",
+    "zh-TW": "歌舞伎造型"
+  },
+  {
+    "no": 676,
+    "name": "Furfrou",
+    "en-US": "Pharaoh",
+    "zh-TW": "國王造型"
+  },
+  {
+    "no": 676,
+    "name": "Furfrou",
+    "en-US": "Heart",
+    "zh-TW": "心形造型"
+  },
+  {
+    "no": 678,
+    "name": "Meowstic",
+    "en-US": "Male"
+  },
+  {
+    "no": 678,
+    "name": "Meowstic",
+    "en-US": "Female"
+  },
+  {
+    "no": 705,
+    "name": "Sliggoo",
+    "en-US": "Kalonian",
+    "zh-TW": "卡洛斯"
+  },
+  {
+    "no": 705,
+    "name": "Sliggoo",
+    "en-US": "Hisuian",
+    "zh-TW": "洗翠地區"
+  },
+  {
+    "no": 706,
+    "name": "Goodra",
+    "en-US": "Kalonian",
+    "zh-TW": "卡洛斯"
+  },
+  {
+    "no": 706,
+    "name": "Goodra",
+    "en-US": "Hisuian",
+    "zh-TW": "洗翠地區"
+  },
+  {
+    "no": 710,
+    "name": "Pumpkaboo",
+    "en-US": "Small Size",
+    "zh-TW": "小尺寸"
+  },
+  {
+    "no": 710,
+    "name": "Pumpkaboo",
+    "en-US": "Average Size",
+    "zh-TW": "普通尺寸"
+  },
+  {
+    "no": 710,
+    "name": "Pumpkaboo",
+    "en-US": "Large Size",
+    "zh-TW": "大尺寸"
+  },
+  {
+    "no": 710,
+    "name": "Pumpkaboo",
+    "en-US": "Super Size",
+    "zh-TW": "特大尺寸"
+  },
+  {
+    "no": 711,
+    "name": "Gourgeist",
+    "en-US": "Small Size",
+    "zh-TW": "小尺寸"
+  },
+  {
+    "no": 711,
+    "name": "Gourgeist",
+    "en-US": "Average Size",
+    "zh-TW": "普通尺寸"
+  },
+  {
+    "no": 711,
+    "name": "Gourgeist",
+    "en-US": "Large Size",
+    "zh-TW": "大尺寸"
+  },
+  {
+    "no": 711,
+    "name": "Gourgeist",
+    "en-US": "Super Size",
+    "zh-TW": "特大尺寸"
+  },
+  {
+    "no": 713,
+    "name": "Avalugg",
+    "en-US": "Kalonian",
+    "zh-TW": "卡洛斯"
+  },
+  {
+    "no": 713,
+    "name": "Avalugg",
+    "en-US": "Hisuian",
+    "zh-TW": "洗翠地區"
+  },
+  {
     "no": 716,
     "name": "Xerneas",
-    "en-US": "Neutral Form",
+    "en-US": "Neutral Mode",
     "zh-TW": "放鬆模式"
   },
   {
     "no": 716,
     "name": "Xerneas",
-    "en-US": "Active Form",
+    "en-US": "Active Mode",
     "zh-TW": "活躍模式"
+  },
+  {
+    "no": 720,
+    "name": "Hoopa",
+    "en-US": "Confined",
+    "zh-TW": "懲戒型態"
+  },
+  {
+    "no": 720,
+    "name": "Hoopa",
+    "en-US": "Unbound",
+    "zh-TW": "解放型態"
+  },
+  {
+    "no": 724,
+    "name": "Decidueye",
+    "en-US": "Alolan",
+    "zh-TW": "阿羅拉地區"
+  },
+  {
+    "no": 724,
+    "name": "Decidueye",
+    "en-US": "Hisuian",
+    "zh-TW": "洗翠地區"
+  },
+  {
+    "no": 741,
+    "name": "Oricorio",
+    "en-US": "Baile Style",
+    "zh-TW": "熱辣熱辣風格"
+  },
+  {
+    "no": 741,
+    "name": "Oricorio",
+    "en-US": "Pom-Pom Style",
+    "zh-TW": "啪滋啪滋風格"
+  },
+  {
+    "no": 741,
+    "name": "Oricorio",
+    "en-US": "Pa'u Style",
+    "zh-TW": "呼拉呼拉風格"
+  },
+  {
+    "no": 741,
+    "name": "Oricorio",
+    "en-US": "Sensu Style",
+    "zh-TW": "輕盈輕盈風格"
+  },
+  {
+    "no": 745,
+    "name": "Lycanroc",
+    "en-US": "Midday",
+    "zh-TW": "白晝的樣子"
+  },
+  {
+    "no": 745,
+    "name": "Lycanroc",
+    "en-US": "Midnight",
+    "zh-TW": "黑夜的樣子"
+  },
+  {
+    "no": 745,
+    "name": "Lycanroc",
+    "en-US": "Dusk",
+    "zh-TW": "黃昏的樣子"
+  },
+  {
+    "no": 888,
+    "name": "Zacian",
+    "en-US": "Hero form",
+    "zh-TW": "百戰勇者"
+  },
+  {
+    "no": 888,
+    "name": "Zacian",
+    "en-US": "Crowned form",
+    "zh-TW": "劍之王"
+  },
+  {
+    "no": 889,
+    "name": "Zamazenta",
+    "en-US": "Hero form",
+    "zh-TW": "百戰勇者"
+  },
+  {
+    "no": 889,
+    "name": "Zamazenta",
+    "en-US": "Crowned form",
+    "zh-TW": "盾之王"
+  },
+  {
+    "no": 893,
+    "name": "Zarude",
+    "en-US": "Dada Zarude",
+    "zh-TW": "阿爸"
+  },
+  {
+    "no": null,
+    "name": "Gimmighoul",
+    "en-US": "Chest form",
+    "zh-TW": "寶箱形態"
+  },
+  {
+    "no": null,
+    "name": "Gimmighoul",
+    "en-US": "Roaming form",
+    "zh-TW": "徒步形態"
   }
 ]

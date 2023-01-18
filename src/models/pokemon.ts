@@ -1,31 +1,31 @@
-declare interface PokemonName {
+export interface PokemonName {
   no: number;
   'en-US': string;
   'zh-TW': string;
   'zh-CN': string;
 }
 
-declare interface Pokemon {
+export interface Pokemon {
   no: number;
   name: string;
   form: string;
   types: string[];
 }
 
-declare interface PokemonForm {
+export interface PokemonForm {
   no: number;
   name: string;
   'en-US'?: string;
   'zh-TW'?: string;
 }
 
-declare interface Region {
+export interface Region {
   patterns: string[];
   'en-US': string;
   'zh-TW': string;
 }
 
-declare interface Type {
+export interface Type {
   patterns: string[];
   'en-US': string;
   'zh-TW': string;

@@ -12,15 +12,19 @@ const getFormList = async () => {
   const xml = await res.text();
 
   const root = parse(xml);
-  const pokemonItems = root.querySelectorAll('.pogo-list-item');
+  // container 'wds-is-current' is for 'Regular' tab instead of 'Shiny'
+  const pokemonItems = root.querySelectorAll('.wds-is-current .pogo-list-item');
 
   const formList = _.chain(pokemonItems)
-    .map((pokemonItem) => {
-      return {
-        no: parseInt(pokemonItem.querySelector('.pogo-list-item-number').rawText.trim().replace('#', '')),
-        name: pokemonItem.querySelector('.pogo-list-item-name a').rawText.trim(),
-        'en-US': pokemonItem.querySelector('.pogo-list-item-form')?.rawText.trim(),
-      };
+    .flatMap((pokemonItem) => {
+      const isLegal: boolean = !!pokemonItem.querySelector('.pogo-list-item-number') && !!pokemonItem.querySelector('.pogo-list-item-name a');
+      return isLegal
+        ? [{
+          no: parseInt(pokemonItem.querySelector('.pogo-list-item-number').rawText.trim().replace('#', '')),
+          name: pokemonItem.querySelector('.pogo-list-item-name a').rawText.trim(),
+          'en-US': pokemonItem.querySelector('.pogo-list-item-form')?.rawText.trim(),
+        }]
+        : [];
     })
     .sortBy((pokemon) => pokemon.no)
     .value();

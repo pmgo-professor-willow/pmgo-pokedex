@@ -5386,5 +5386,665 @@
     "en-US": "Calyrex",
     "zh-TW": "蕾冠王",
     "zh-CN": "蕾冠王"
+  },
+  {
+    "no": 899,
+    "en-US": "Wyrdeer",
+    "zh-TW": "詭角鹿",
+    "zh-CN": "诡角鹿"
+  },
+  {
+    "no": 900,
+    "en-US": "Kleavor",
+    "zh-TW": "劈斧螳螂",
+    "zh-CN": "劈斧螳螂"
+  },
+  {
+    "no": 901,
+    "en-US": "Ursaluna",
+    "zh-TW": "月月熊",
+    "zh-CN": "月月熊"
+  },
+  {
+    "no": 902,
+    "en-US": "Basculegion",
+    "zh-TW": "幽尾玄魚",
+    "zh-CN": "幽尾玄鱼"
+  },
+  {
+    "no": 903,
+    "en-US": "Sneasler",
+    "zh-TW": "大狃拉",
+    "zh-CN": "大狃拉"
+  },
+  {
+    "no": 904,
+    "en-US": "Overqwil",
+    "zh-TW": "萬針魚",
+    "zh-CN": "万针鱼"
+  },
+  {
+    "no": 905,
+    "en-US": "Enamorus",
+    "zh-TW": "眷戀雲",
+    "zh-CN": "眷恋云"
+  },
+  {
+    "no": 906,
+    "en-US": "Sprigatito",
+    "zh-TW": "新葉喵",
+    "zh-CN": "新叶喵"
+  },
+  {
+    "no": 907,
+    "en-US": "Floragato",
+    "zh-TW": "蒂蕾喵",
+    "zh-CN": "蒂蕾喵"
+  },
+  {
+    "no": 908,
+    "en-US": "Meowscarada",
+    "zh-TW": "魔幻假面喵",
+    "zh-CN": "魔幻假面喵"
+  },
+  {
+    "no": 909,
+    "en-US": "Fuecoco",
+    "zh-TW": "呆火鱷",
+    "zh-CN": "呆火鳄"
+  },
+  {
+    "no": 910,
+    "en-US": "Crocalor",
+    "zh-TW": "炙燙鱷",
+    "zh-CN": "炙烫鳄"
+  },
+  {
+    "no": 911,
+    "en-US": "Skeledirge",
+    "zh-TW": "骨紋巨聲鱷",
+    "zh-CN": "骨纹巨声鳄"
+  },
+  {
+    "no": 912,
+    "en-US": "Quaxly",
+    "zh-TW": "潤水鴨",
+    "zh-CN": "润水鸭"
+  },
+  {
+    "no": 913,
+    "en-US": "Quaxwell",
+    "zh-TW": "湧躍鴨",
+    "zh-CN": "涌跃鸭"
+  },
+  {
+    "no": 914,
+    "en-US": "Quaquaval",
+    "zh-TW": "狂歡浪舞鴨",
+    "zh-CN": "狂欢浪舞鸭"
+  },
+  {
+    "no": 915,
+    "en-US": "Lechonk",
+    "zh-TW": "愛吃豚",
+    "zh-CN": "爱吃豚"
+  },
+  {
+    "no": 916,
+    "en-US": "Oinkologne",
+    "zh-TW": "飄香豚",
+    "zh-CN": "飘香豚"
+  },
+  {
+    "no": 917,
+    "en-US": "Tarountula",
+    "zh-TW": "團珠蛛",
+    "zh-CN": "团珠蛛"
+  },
+  {
+    "no": 918,
+    "en-US": "Spidops",
+    "zh-TW": "操陷蛛",
+    "zh-CN": "操陷蛛"
+  },
+  {
+    "no": 919,
+    "en-US": "Nymble",
+    "zh-TW": "豆蟋蟀",
+    "zh-CN": "豆蟋蟀"
+  },
+  {
+    "no": 920,
+    "en-US": "Lokix",
+    "zh-TW": "烈腿蝗",
+    "zh-CN": "烈腿蝗"
+  },
+  {
+    "no": 921,
+    "en-US": "Pawmi",
+    "zh-TW": "布撥",
+    "zh-CN": "布拨"
+  },
+  {
+    "no": 922,
+    "en-US": "Pawmo",
+    "zh-TW": "布土撥",
+    "zh-CN": "布土拨"
+  },
+  {
+    "no": 923,
+    "en-US": "Pawmot",
+    "zh-TW": "巴布土撥",
+    "zh-CN": "巴布土拨"
+  },
+  {
+    "no": 924,
+    "en-US": "Tandemaus",
+    "zh-TW": "一對鼠",
+    "zh-CN": "一对鼠"
+  },
+  {
+    "no": 925,
+    "en-US": "Maushold",
+    "zh-TW": "一家鼠",
+    "zh-CN": "一家鼠"
+  },
+  {
+    "no": 926,
+    "en-US": "Fidough",
+    "zh-TW": "狗仔包",
+    "zh-CN": "狗仔包"
+  },
+  {
+    "no": 927,
+    "en-US": "Dachsbun",
+    "zh-TW": "麻花犬",
+    "zh-CN": "麻花犬"
+  },
+  {
+    "no": 928,
+    "en-US": "Smoliv",
+    "zh-TW": "迷你芙",
+    "zh-CN": "迷你芙"
+  },
+  {
+    "no": 929,
+    "en-US": "Dolliv",
+    "zh-TW": "奧利紐",
+    "zh-CN": "奥利纽"
+  },
+  {
+    "no": 930,
+    "en-US": "Arboliva",
+    "zh-TW": "奧利瓦",
+    "zh-CN": "奥利瓦"
+  },
+  {
+    "no": 931,
+    "en-US": "Squawkabilly",
+    "zh-TW": "怒鸚哥",
+    "zh-CN": "怒鹦哥"
+  },
+  {
+    "no": 932,
+    "en-US": "Nacli",
+    "zh-TW": "鹽石寶",
+    "zh-CN": "盐石宝"
+  },
+  {
+    "no": 933,
+    "en-US": "Naclstack",
+    "zh-TW": "鹽石壘",
+    "zh-CN": "盐石垒"
+  },
+  {
+    "no": 934,
+    "en-US": "Garganacl",
+    "zh-TW": "鹽石巨靈",
+    "zh-CN": "盐石巨灵"
+  },
+  {
+    "no": 935,
+    "en-US": "Charcadet",
+    "zh-TW": "炭小侍",
+    "zh-CN": "炭小侍"
+  },
+  {
+    "no": 936,
+    "en-US": "Armarouge",
+    "zh-TW": "紅蓮鎧騎",
+    "zh-CN": "红莲铠骑"
+  },
+  {
+    "no": 937,
+    "en-US": "Ceruledge",
+    "zh-TW": "蒼炎刃鬼",
+    "zh-CN": "苍炎刃鬼"
+  },
+  {
+    "no": 938,
+    "en-US": "Tadbulb",
+    "zh-TW": "光蚪仔",
+    "zh-CN": "光蚪仔"
+  },
+  {
+    "no": 939,
+    "en-US": "Bellibolt",
+    "zh-TW": "電肚蛙",
+    "zh-CN": "电肚蛙"
+  },
+  {
+    "no": 940,
+    "en-US": "Wattrel",
+    "zh-TW": "電海燕",
+    "zh-CN": "电海燕"
+  },
+  {
+    "no": 941,
+    "en-US": "Kilowattrel",
+    "zh-TW": "大電海燕",
+    "zh-CN": "大电海燕"
+  },
+  {
+    "no": 942,
+    "en-US": "Maschiff",
+    "zh-TW": "偶叫獒",
+    "zh-CN": "偶叫獒"
+  },
+  {
+    "no": 943,
+    "en-US": "Mabosstiff",
+    "zh-TW": "獒教父",
+    "zh-CN": "獒教父"
+  },
+  {
+    "no": 944,
+    "en-US": "Shroodle",
+    "zh-TW": "滋汁鼴",
+    "zh-CN": "滋汁鼹"
+  },
+  {
+    "no": 945,
+    "en-US": "Grafaiai",
+    "zh-TW": "塗標客",
+    "zh-CN": "涂标客"
+  },
+  {
+    "no": 946,
+    "en-US": "Bramblin",
+    "zh-TW": "納噬草",
+    "zh-CN": "纳噬草"
+  },
+  {
+    "no": 947,
+    "en-US": "Brambleghast",
+    "zh-TW": "怖納噬草",
+    "zh-CN": "怖纳噬草"
+  },
+  {
+    "no": 948,
+    "en-US": "Toedscool",
+    "zh-TW": "原野水母",
+    "zh-CN": "原野水母"
+  },
+  {
+    "no": 949,
+    "en-US": "Toedscruel",
+    "zh-TW": "陸地水母",
+    "zh-CN": "陆地水母"
+  },
+  {
+    "no": 950,
+    "en-US": "Klawf",
+    "zh-TW": "毛崖蟹",
+    "zh-CN": "毛崖蟹"
+  },
+  {
+    "no": 951,
+    "en-US": "Capsakid",
+    "zh-TW": "熱辣娃",
+    "zh-CN": "热辣娃"
+  },
+  {
+    "no": 952,
+    "en-US": "Scovillain",
+    "zh-TW": "狠辣椒",
+    "zh-CN": "狠辣椒"
+  },
+  {
+    "no": 953,
+    "en-US": "Rellor",
+    "zh-TW": "蟲滾泥",
+    "zh-CN": "虫滚泥"
+  },
+  {
+    "no": 954,
+    "en-US": "Rabsca",
+    "zh-TW": "蟲甲聖",
+    "zh-CN": "虫甲圣"
+  },
+  {
+    "no": 955,
+    "en-US": "Flittle",
+    "zh-TW": "飄飄雛",
+    "zh-CN": "飘飘雏"
+  },
+  {
+    "no": 956,
+    "en-US": "Espathra",
+    "zh-TW": "超能豔鴕",
+    "zh-CN": "超能艳鸵"
+  },
+  {
+    "no": 957,
+    "en-US": "Tinkatink",
+    "zh-TW": "小鍛匠",
+    "zh-CN": "小锻匠"
+  },
+  {
+    "no": 958,
+    "en-US": "Tinkatuff",
+    "zh-TW": "巧鍛匠",
+    "zh-CN": "巧锻匠"
+  },
+  {
+    "no": 959,
+    "en-US": "Tinkaton",
+    "zh-TW": "巨鍛匠",
+    "zh-CN": "巨锻匠"
+  },
+  {
+    "no": 960,
+    "en-US": "Wiglett",
+    "zh-TW": "海地鼠",
+    "zh-CN": "海地鼠"
+  },
+  {
+    "no": 961,
+    "en-US": "Wugtrio",
+    "zh-TW": "三海地鼠",
+    "zh-CN": "三海地鼠"
+  },
+  {
+    "no": 962,
+    "en-US": "Bombirdier",
+    "zh-TW": "下石鳥",
+    "zh-CN": "下石鸟"
+  },
+  {
+    "no": 963,
+    "en-US": "Finizen",
+    "zh-TW": "波普海豚",
+    "zh-CN": "波普海豚"
+  },
+  {
+    "no": 964,
+    "en-US": "Palafin",
+    "zh-TW": "海豚俠",
+    "zh-CN": "海豚侠"
+  },
+  {
+    "no": 965,
+    "en-US": "Varoom",
+    "zh-TW": "噗隆隆",
+    "zh-CN": "噗隆隆"
+  },
+  {
+    "no": 966,
+    "en-US": "Revavroom",
+    "zh-TW": "普隆隆姆",
+    "zh-CN": "普隆隆姆"
+  },
+  {
+    "no": 967,
+    "en-US": "Cyclizar",
+    "zh-TW": "摩托蜥",
+    "zh-CN": "摩托蜥"
+  },
+  {
+    "no": 968,
+    "en-US": "Orthworm",
+    "zh-TW": "拖拖蚓",
+    "zh-CN": "拖拖蚓"
+  },
+  {
+    "no": 969,
+    "en-US": "Glimmet",
+    "zh-TW": "晶光芽",
+    "zh-CN": "晶光芽"
+  },
+  {
+    "no": 970,
+    "en-US": "Glimmora",
+    "zh-TW": "晶光花",
+    "zh-CN": "晶光花"
+  },
+  {
+    "no": 971,
+    "en-US": "Greavard",
+    "zh-TW": "墓仔狗",
+    "zh-CN": "墓仔狗"
+  },
+  {
+    "no": 972,
+    "en-US": "Houndstone",
+    "zh-TW": "墓揚犬",
+    "zh-CN": "墓扬犬"
+  },
+  {
+    "no": 973,
+    "en-US": "Flamigo",
+    "zh-TW": "纏紅鶴",
+    "zh-CN": "缠红鹤"
+  },
+  {
+    "no": 974,
+    "en-US": "Cetoddle",
+    "zh-TW": "走鯨",
+    "zh-CN": "走鲸"
+  },
+  {
+    "no": 975,
+    "en-US": "Cetitan",
+    "zh-TW": "浩大鯨",
+    "zh-CN": "浩大鲸"
+  },
+  {
+    "no": 976,
+    "en-US": "Veluza",
+    "zh-TW": "輕身鱈",
+    "zh-CN": "轻身鳕"
+  },
+  {
+    "no": 977,
+    "en-US": "Dondozo",
+    "zh-TW": "吃吼霸",
+    "zh-CN": "吃吼霸"
+  },
+  {
+    "no": 978,
+    "en-US": "Tatsugiri",
+    "zh-TW": "米立龍",
+    "zh-CN": "米立龙"
+  },
+  {
+    "no": 979,
+    "en-US": "Annihilape",
+    "zh-TW": "棄世猴",
+    "zh-CN": "弃世猴"
+  },
+  {
+    "no": 980,
+    "en-US": "Clodsire",
+    "zh-TW": "土王",
+    "zh-CN": "土王"
+  },
+  {
+    "no": 981,
+    "en-US": "Farigiraf",
+    "zh-TW": "奇麒麟",
+    "zh-CN": "奇麒麟"
+  },
+  {
+    "no": 982,
+    "en-US": "Dudunsparce",
+    "zh-TW": "土龍節節",
+    "zh-CN": "土龙节节"
+  },
+  {
+    "no": 983,
+    "en-US": "Kingambit",
+    "zh-TW": "仆斬將軍",
+    "zh-CN": "仆刀将军"
+  },
+  {
+    "no": 984,
+    "en-US": "Great Tusk",
+    "zh-TW": "雄偉牙",
+    "zh-CN": "雄伟牙"
+  },
+  {
+    "no": 985,
+    "en-US": "Scream Tail",
+    "zh-TW": "吼叫尾",
+    "zh-CN": "吼叫尾"
+  },
+  {
+    "no": 986,
+    "en-US": "Brute Bonnet",
+    "zh-TW": "猛惡菇",
+    "zh-CN": "猛恶菇"
+  },
+  {
+    "no": 987,
+    "en-US": "Flutter Mane",
+    "zh-TW": "振翼髮",
+    "zh-CN": "振翼发"
+  },
+  {
+    "no": 988,
+    "en-US": "Slither Wing",
+    "zh-TW": "爬地翅",
+    "zh-CN": "爬地翅"
+  },
+  {
+    "no": 989,
+    "en-US": "Sandy Shocks",
+    "zh-TW": "沙鐵皮",
+    "zh-CN": "沙铁皮"
+  },
+  {
+    "no": 990,
+    "en-US": "Iron Treads",
+    "zh-TW": "鐵轍跡",
+    "zh-CN": "铁辙迹"
+  },
+  {
+    "no": 991,
+    "en-US": "Iron Bundle",
+    "zh-TW": "鐵包袱",
+    "zh-CN": "铁包袱"
+  },
+  {
+    "no": 992,
+    "en-US": "Iron Hands",
+    "zh-TW": "鐵臂膀",
+    "zh-CN": "铁臂膀"
+  },
+  {
+    "no": 993,
+    "en-US": "Iron Jugulis",
+    "zh-TW": "鐵脖頸",
+    "zh-CN": "铁脖颈"
+  },
+  {
+    "no": 994,
+    "en-US": "Iron Moth",
+    "zh-TW": "鐵毒蛾",
+    "zh-CN": "铁毒蛾"
+  },
+  {
+    "no": 995,
+    "en-US": "Iron Thorns",
+    "zh-TW": "鐵荊棘",
+    "zh-CN": "铁荆棘"
+  },
+  {
+    "no": 996,
+    "en-US": "Frigibax",
+    "zh-TW": "涼脊龍",
+    "zh-CN": "凉脊龙"
+  },
+  {
+    "no": 997,
+    "en-US": "Arctibax",
+    "zh-TW": "凍脊龍",
+    "zh-CN": "冻脊龙"
+  },
+  {
+    "no": 998,
+    "en-US": "Baxcalibur",
+    "zh-TW": "戟脊龍",
+    "zh-CN": "戟脊龙"
+  },
+  {
+    "no": 999,
+    "en-US": "Gimmighoul",
+    "zh-TW": "索財靈",
+    "zh-CN": "索财灵"
+  },
+  {
+    "no": 1000,
+    "en-US": "Gholdengo",
+    "zh-TW": "賽富豪",
+    "zh-CN": "赛富豪"
+  },
+  {
+    "no": 1001,
+    "en-US": "Wo-Chien",
+    "zh-TW": "古簡蝸",
+    "zh-CN": "古简蜗"
+  },
+  {
+    "no": 1002,
+    "en-US": "Chien-Pao",
+    "zh-TW": "古劍豹",
+    "zh-CN": "古剑豹"
+  },
+  {
+    "no": 1003,
+    "en-US": "Ting-Lu",
+    "zh-TW": "古鼎鹿",
+    "zh-CN": "古鼎鹿"
+  },
+  {
+    "no": 1004,
+    "en-US": "Chi-Yu",
+    "zh-TW": "古玉魚",
+    "zh-CN": "古玉鱼"
+  },
+  {
+    "no": 1005,
+    "en-US": "Roaring Moon",
+    "zh-TW": "轟鳴月",
+    "zh-CN": "轰鸣月"
+  },
+  {
+    "no": 1006,
+    "en-US": "Iron Valiant",
+    "zh-TW": "鐵武者",
+    "zh-CN": "铁武者"
+  },
+  {
+    "no": 1007,
+    "en-US": "Koraidon",
+    "zh-TW": "故勒頓",
+    "zh-CN": "故勒顿"
+  },
+  {
+    "no": 1008,
+    "en-US": "Miraidon",
+    "zh-TW": "密勒頓",
+    "zh-CN": "密勒顿"
   }
 ]

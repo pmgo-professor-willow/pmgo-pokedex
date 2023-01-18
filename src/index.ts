@@ -1,12 +1,15 @@
 // Node modules.
+import { readFileSync } from 'node:fs';
 import _ from 'lodash';
 import { findBestMatch } from 'string-similarity';
+// Local modules.
+import { Pokemon, PokemonForm, PokemonName, Region, Type } from './models/pokemon';
 
-const pokemonNameList: PokemonName[] = require('../data/pokemon-name-list.json');
-const pokemonList: Pokemon[] = require('../data/pokemon-list.json');
-const formList: PokemonForm[] = require('../data/form-list.json');
-const regionList: Region[] = require('../data/region-list.json');
-const typeList: Type[] = require('../data/type-list.json');
+const pokemonNameList: PokemonName[] = JSON.parse(readFileSync('data/pokemon-name-list.json', { encoding: 'utf-8' }));
+const pokemonList: Pokemon[] = JSON.parse(readFileSync('data/pokemon-list.json', { encoding: 'utf-8' }));
+const formList: PokemonForm[] = JSON.parse(readFileSync('data/form-list.json', { encoding: 'utf-8' }));
+const regionList: Region[] = JSON.parse(readFileSync('data/region-list.json', { encoding: 'utf-8' }));
+const typeList: Type[] = JSON.parse(readFileSync('data/type-list.json', { encoding: 'utf-8' }));
 
 type Locale = 'en-US' | 'zh-TW';
 

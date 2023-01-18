@@ -655,11 +655,29 @@
     ]
   },
   {
+    "no": 58,
+    "name": "Growlithe",
+    "form": "Hisuian Growlithe",
+    "types": [
+      "Fire",
+      "Rock"
+    ]
+  },
+  {
     "no": 59,
     "name": "Arcanine",
     "form": null,
     "types": [
       "Fire"
+    ]
+  },
+  {
+    "no": 59,
+    "name": "Arcanine",
+    "form": "Hisuian Arcanine",
+    "types": [
+      "Fire",
+      "Rock"
     ]
   },
   {
@@ -1126,11 +1144,29 @@
     ]
   },
   {
+    "no": 100,
+    "name": "Voltorb",
+    "form": "Hisuian Voltorb",
+    "types": [
+      "Electric",
+      "Grass"
+    ]
+  },
+  {
     "no": 101,
     "name": "Electrode",
     "form": null,
     "types": [
       "Electric"
+    ]
+  },
+  {
+    "no": 101,
+    "name": "Electrode",
+    "form": "Hisuian Electrode",
+    "types": [
+      "Electric",
+      "Grass"
     ]
   },
   {
@@ -1408,6 +1444,32 @@
     "form": null,
     "types": [
       "Normal"
+    ]
+  },
+  {
+    "no": 128,
+    "name": "Tauros",
+    "form": "Combat Breed",
+    "types": [
+      "Fighting"
+    ]
+  },
+  {
+    "no": 128,
+    "name": "Tauros",
+    "form": "Blaze Breed",
+    "types": [
+      "Fighting",
+      "Fire"
+    ]
+  },
+  {
+    "no": 128,
+    "name": "Tauros",
+    "form": "Aqua Breed",
+    "types": [
+      "Fighting",
+      "Water"
     ]
   },
   {
@@ -1721,6 +1783,15 @@
     "form": null,
     "types": [
       "Fire"
+    ]
+  },
+  {
+    "no": 157,
+    "name": "Typhlosion",
+    "form": "Hisuian Typhlosion",
+    "types": [
+      "Fire",
+      "Ghost"
     ]
   },
   {
@@ -2049,6 +2120,15 @@
     ]
   },
   {
+    "no": 194,
+    "name": "Wooper",
+    "form": "Paldean Wooper",
+    "types": [
+      "Poison",
+      "Ground"
+    ]
+  },
+  {
     "no": 195,
     "name": "Quagsire",
     "form": null,
@@ -2211,6 +2291,15 @@
     ]
   },
   {
+    "no": 211,
+    "name": "Qwilfish",
+    "form": "Hisuian Qwilfish",
+    "types": [
+      "Dark",
+      "Poison"
+    ]
+  },
+  {
     "no": 212,
     "name": "Scizor",
     "form": null,
@@ -2262,6 +2351,15 @@
     "types": [
       "Dark",
       "Ice"
+    ]
+  },
+  {
+    "no": 215,
+    "name": "Sneasel",
+    "form": "Hisuian Sneasel",
+    "types": [
+      "Fighting",
+      "Poison"
     ]
   },
   {
@@ -4214,7 +4312,23 @@
   {
     "no": 412,
     "name": "Burmy",
-    "form": null,
+    "form": "Plant Cloak",
+    "types": [
+      "Bug"
+    ]
+  },
+  {
+    "no": 412,
+    "name": "Burmy",
+    "form": "Sandy Cloak",
+    "types": [
+      "Bug"
+    ]
+  },
+  {
+    "no": 412,
+    "name": "Burmy",
+    "form": "Trash Cloak",
     "types": [
       "Bug"
     ]
@@ -4316,15 +4430,7 @@
   {
     "no": 422,
     "name": "Shellos",
-    "form": "East Sea",
-    "types": [
-      "Water"
-    ]
-  },
-  {
-    "no": 422,
-    "name": "Shellos",
-    "form": "West Sea",
+    "form": null,
     "types": [
       "Water"
     ]
@@ -4332,16 +4438,7 @@
   {
     "no": 423,
     "name": "Gastrodon",
-    "form": "East Sea",
-    "types": [
-      "Water",
-      "Ground"
-    ]
-  },
-  {
-    "no": 423,
-    "name": "Gastrodon",
-    "form": "West Sea",
+    "form": null,
     "types": [
       "Water",
       "Ground"
@@ -4951,9 +5048,27 @@
     ]
   },
   {
+    "no": 483,
+    "name": "Dialga",
+    "form": "Origin Forme",
+    "types": [
+      "Steel",
+      "Dragon"
+    ]
+  },
+  {
     "no": 484,
     "name": "Palkia",
     "form": null,
+    "types": [
+      "Water",
+      "Dragon"
+    ]
+  },
+  {
+    "no": 484,
+    "name": "Palkia",
+    "form": "Origin Forme",
     "types": [
       "Water",
       "Dragon"
@@ -5132,6 +5247,15 @@
     "form": null,
     "types": [
       "Water"
+    ]
+  },
+  {
+    "no": 503,
+    "name": "Samurott",
+    "form": "Hisuian Samurott",
+    "types": [
+      "Water",
+      "Dark"
     ]
   },
   {
@@ -5528,6 +5652,15 @@
     ]
   },
   {
+    "no": 549,
+    "name": "Lilligant",
+    "form": "Hisuian Lilligant",
+    "types": [
+      "Grass",
+      "Fighting"
+    ]
+  },
+  {
     "no": 550,
     "name": "Basculin",
     "form": "Red-Striped Form",
@@ -5539,6 +5672,14 @@
     "no": 550,
     "name": "Basculin",
     "form": "Blue-Striped Form",
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "no": 550,
+    "name": "Basculin",
+    "form": "White-Striped Form",
     "types": [
       "Water"
     ]
@@ -5759,11 +5900,29 @@
     ]
   },
   {
+    "no": 570,
+    "name": "Zorua",
+    "form": "Hisuian Zorua",
+    "types": [
+      "Normal",
+      "Ghost"
+    ]
+  },
+  {
     "no": 571,
     "name": "Zoroark",
     "form": null,
     "types": [
       "Dark"
+    ]
+  },
+  {
+    "no": 571,
+    "name": "Zoroark",
+    "form": "Hisuian Zoroark",
+    "types": [
+      "Normal",
+      "Ghost"
     ]
   },
   {
@@ -6256,6 +6415,15 @@
     ]
   },
   {
+    "no": 628,
+    "name": "Braviary",
+    "form": "Hisuian Braviary",
+    "types": [
+      "Psychic",
+      "Flying"
+    ]
+  },
+  {
     "no": 629,
     "name": "Vullaby",
     "form": null,
@@ -6444,7 +6612,7 @@
   {
     "no": 646,
     "name": "Kyurem",
-    "form": "Black Kyurem",
+    "form": "White Kyurem",
     "types": [
       "Dragon",
       "Ice"
@@ -6453,7 +6621,7 @@
   {
     "no": 646,
     "name": "Kyurem",
-    "form": "White Kyurem",
+    "form": "Black Kyurem",
     "types": [
       "Dragon",
       "Ice"
@@ -7008,10 +7176,28 @@
     ]
   },
   {
+    "no": 705,
+    "name": "Sliggoo",
+    "form": "Hisuian Sliggoo",
+    "types": [
+      "Steel",
+      "Dragon"
+    ]
+  },
+  {
     "no": 706,
     "name": "Goodra",
     "form": null,
     "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "no": 706,
+    "name": "Goodra",
+    "form": "Hisuian Goodra",
+    "types": [
+      "Steel",
       "Dragon"
     ]
   },
@@ -7128,6 +7314,15 @@
     "form": null,
     "types": [
       "Ice"
+    ]
+  },
+  {
+    "no": 713,
+    "name": "Avalugg",
+    "form": "Hisuian Avalugg",
+    "types": [
+      "Ice",
+      "Rock"
     ]
   },
   {
@@ -7262,6 +7457,15 @@
     "types": [
       "Grass",
       "Ghost"
+    ]
+  },
+  {
+    "no": 724,
+    "name": "Decidueye",
+    "form": "Hisuian Decidueye",
+    "types": [
+      "Grass",
+      "Fighting"
     ]
   },
   {
@@ -8417,7 +8621,7 @@
   {
     "no": 849,
     "name": "Toxtricity",
-    "form": "Low Key Form",
+    "form": "Amped Form",
     "types": [
       "Electric",
       "Poison"
@@ -8426,7 +8630,7 @@
   {
     "no": 849,
     "name": "Toxtricity",
-    "form": "Amped Form",
+    "form": "Low Key Form",
     "types": [
       "Electric",
       "Poison"
@@ -8786,26 +8990,17 @@
   {
     "no": 888,
     "name": "Zacian",
-    "form": "Crowned Sword",
-    "types": [
-      "Fairy",
-      "Steel"
-    ]
-  },
-  {
-    "no": 888,
-    "name": "Zacian",
     "form": "Hero of Many Battles",
     "types": [
       "Fairy"
     ]
   },
   {
-    "no": 889,
-    "name": "Zamazenta",
-    "form": "Crowned Shield",
+    "no": 888,
+    "name": "Zacian",
+    "form": "Crowned Sword",
     "types": [
-      "Fighting",
+      "Fairy",
       "Steel"
     ]
   },
@@ -8815,6 +9010,15 @@
     "form": "Hero of Many Battles",
     "types": [
       "Fighting"
+    ]
+  },
+  {
+    "no": 889,
+    "name": "Zamazenta",
+    "form": "Crowned Shield",
+    "types": [
+      "Fighting",
+      "Steel"
     ]
   },
   {
@@ -8927,6 +9131,1058 @@
     "types": [
       "Psychic",
       "Ghost"
+    ]
+  },
+  {
+    "no": 899,
+    "name": "Wyrdeer",
+    "form": null,
+    "types": [
+      "Normal",
+      "Psychic"
+    ]
+  },
+  {
+    "no": 900,
+    "name": "Kleavor",
+    "form": null,
+    "types": [
+      "Bug",
+      "Rock"
+    ]
+  },
+  {
+    "no": 901,
+    "name": "Ursaluna",
+    "form": null,
+    "types": [
+      "Ground",
+      "Normal"
+    ]
+  },
+  {
+    "no": 902,
+    "name": "Basculegion",
+    "form": "Male",
+    "types": [
+      "Water",
+      "Ghost"
+    ]
+  },
+  {
+    "no": 902,
+    "name": "Basculegion",
+    "form": "Female",
+    "types": [
+      "Water",
+      "Ghost"
+    ]
+  },
+  {
+    "no": 903,
+    "name": "Sneasler",
+    "form": null,
+    "types": [
+      "Poison",
+      "Fighting"
+    ]
+  },
+  {
+    "no": 904,
+    "name": "Overqwil",
+    "form": null,
+    "types": [
+      "Dark",
+      "Poison"
+    ]
+  },
+  {
+    "no": 905,
+    "name": "Enamorus",
+    "form": "Incarnate Forme",
+    "types": [
+      "Fairy",
+      "Flying"
+    ]
+  },
+  {
+    "no": 905,
+    "name": "Enamorus",
+    "form": "Therian Forme",
+    "types": [
+      "Fairy",
+      "Flying"
+    ]
+  },
+  {
+    "no": 906,
+    "name": "Sprigatito",
+    "form": null,
+    "types": [
+      "Grass"
+    ]
+  },
+  {
+    "no": 907,
+    "name": "Floragato",
+    "form": null,
+    "types": [
+      "Grass"
+    ]
+  },
+  {
+    "no": 908,
+    "name": "Meowscarada",
+    "form": null,
+    "types": [
+      "Grass",
+      "Dark"
+    ]
+  },
+  {
+    "no": 909,
+    "name": "Fuecoco",
+    "form": null,
+    "types": [
+      "Fire"
+    ]
+  },
+  {
+    "no": 910,
+    "name": "Crocalor",
+    "form": null,
+    "types": [
+      "Fire"
+    ]
+  },
+  {
+    "no": 911,
+    "name": "Skeledirge",
+    "form": null,
+    "types": [
+      "Fire",
+      "Ghost"
+    ]
+  },
+  {
+    "no": 912,
+    "name": "Quaxly",
+    "form": null,
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "no": 913,
+    "name": "Quaxwell",
+    "form": null,
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "no": 914,
+    "name": "Quaquaval",
+    "form": null,
+    "types": [
+      "Water",
+      "Fighting"
+    ]
+  },
+  {
+    "no": 915,
+    "name": "Lechonk",
+    "form": null,
+    "types": [
+      "Normal"
+    ]
+  },
+  {
+    "no": 916,
+    "name": "Oinkologne",
+    "form": "Male",
+    "types": [
+      "Normal"
+    ]
+  },
+  {
+    "no": 916,
+    "name": "Oinkologne",
+    "form": "Female",
+    "types": [
+      "Normal"
+    ]
+  },
+  {
+    "no": 917,
+    "name": "Tarountula",
+    "form": null,
+    "types": [
+      "Bug"
+    ]
+  },
+  {
+    "no": 918,
+    "name": "Spidops",
+    "form": null,
+    "types": [
+      "Bug"
+    ]
+  },
+  {
+    "no": 919,
+    "name": "Nymble",
+    "form": null,
+    "types": [
+      "Bug"
+    ]
+  },
+  {
+    "no": 920,
+    "name": "Lokix",
+    "form": null,
+    "types": [
+      "Bug",
+      "Dark"
+    ]
+  },
+  {
+    "no": 921,
+    "name": "Pawmi",
+    "form": null,
+    "types": [
+      "Electric"
+    ]
+  },
+  {
+    "no": 922,
+    "name": "Pawmo",
+    "form": null,
+    "types": [
+      "Electric",
+      "Fighting"
+    ]
+  },
+  {
+    "no": 923,
+    "name": "Pawmot",
+    "form": null,
+    "types": [
+      "Electric",
+      "Fighting"
+    ]
+  },
+  {
+    "no": 924,
+    "name": "Tandemaus",
+    "form": null,
+    "types": [
+      "Normal"
+    ]
+  },
+  {
+    "no": 925,
+    "name": "Maushold",
+    "form": "Family of Four",
+    "types": [
+      "Normal"
+    ]
+  },
+  {
+    "no": 925,
+    "name": "Maushold",
+    "form": "Family of Three",
+    "types": [
+      "Normal"
+    ]
+  },
+  {
+    "no": 926,
+    "name": "Fidough",
+    "form": null,
+    "types": [
+      "Fairy"
+    ]
+  },
+  {
+    "no": 927,
+    "name": "Dachsbun",
+    "form": null,
+    "types": [
+      "Fairy"
+    ]
+  },
+  {
+    "no": 928,
+    "name": "Smoliv",
+    "form": null,
+    "types": [
+      "Grass",
+      "Normal"
+    ]
+  },
+  {
+    "no": 929,
+    "name": "Dolliv",
+    "form": null,
+    "types": [
+      "Grass",
+      "Normal"
+    ]
+  },
+  {
+    "no": 930,
+    "name": "Arboliva",
+    "form": null,
+    "types": [
+      "Grass",
+      "Normal"
+    ]
+  },
+  {
+    "no": 931,
+    "name": "Squawkabilly",
+    "form": "Green Plumage",
+    "types": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "no": 931,
+    "name": "Squawkabilly",
+    "form": "Blue Plumage",
+    "types": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "no": 931,
+    "name": "Squawkabilly",
+    "form": "Yellow Plumage",
+    "types": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "no": 931,
+    "name": "Squawkabilly",
+    "form": "White Plumage",
+    "types": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  {
+    "no": 932,
+    "name": "Nacli",
+    "form": null,
+    "types": [
+      "Rock"
+    ]
+  },
+  {
+    "no": 933,
+    "name": "Naclstack",
+    "form": null,
+    "types": [
+      "Rock"
+    ]
+  },
+  {
+    "no": 934,
+    "name": "Garganacl",
+    "form": null,
+    "types": [
+      "Rock"
+    ]
+  },
+  {
+    "no": 935,
+    "name": "Charcadet",
+    "form": null,
+    "types": [
+      "Fire"
+    ]
+  },
+  {
+    "no": 936,
+    "name": "Armarouge",
+    "form": null,
+    "types": [
+      "Fire",
+      "Psychic"
+    ]
+  },
+  {
+    "no": 937,
+    "name": "Ceruledge",
+    "form": null,
+    "types": [
+      "Fire",
+      "Ghost"
+    ]
+  },
+  {
+    "no": 938,
+    "name": "Tadbulb",
+    "form": null,
+    "types": [
+      "Electric"
+    ]
+  },
+  {
+    "no": 939,
+    "name": "Bellibolt",
+    "form": null,
+    "types": [
+      "Electric"
+    ]
+  },
+  {
+    "no": 940,
+    "name": "Wattrel",
+    "form": null,
+    "types": [
+      "Electric",
+      "Flying"
+    ]
+  },
+  {
+    "no": 941,
+    "name": "Kilowattrel",
+    "form": null,
+    "types": [
+      "Electric",
+      "Flying"
+    ]
+  },
+  {
+    "no": 942,
+    "name": "Maschiff",
+    "form": null,
+    "types": [
+      "Dark"
+    ]
+  },
+  {
+    "no": 943,
+    "name": "Mabosstiff",
+    "form": null,
+    "types": [
+      "Dark"
+    ]
+  },
+  {
+    "no": 944,
+    "name": "Shroodle",
+    "form": null,
+    "types": [
+      "Poison",
+      "Normal"
+    ]
+  },
+  {
+    "no": 945,
+    "name": "Grafaiai",
+    "form": null,
+    "types": [
+      "Poison",
+      "Normal"
+    ]
+  },
+  {
+    "no": 946,
+    "name": "Bramblin",
+    "form": null,
+    "types": [
+      "Grass",
+      "Ghost"
+    ]
+  },
+  {
+    "no": 947,
+    "name": "Brambleghast",
+    "form": null,
+    "types": [
+      "Grass",
+      "Ghost"
+    ]
+  },
+  {
+    "no": 948,
+    "name": "Toedscool",
+    "form": null,
+    "types": [
+      "Ground",
+      "Grass"
+    ]
+  },
+  {
+    "no": 949,
+    "name": "Toedscruel",
+    "form": null,
+    "types": [
+      "Ground",
+      "Grass"
+    ]
+  },
+  {
+    "no": 950,
+    "name": "Klawf",
+    "form": null,
+    "types": [
+      "Rock"
+    ]
+  },
+  {
+    "no": 951,
+    "name": "Capsakid",
+    "form": null,
+    "types": [
+      "Grass"
+    ]
+  },
+  {
+    "no": 952,
+    "name": "Scovillain",
+    "form": null,
+    "types": [
+      "Grass",
+      "Fire"
+    ]
+  },
+  {
+    "no": 953,
+    "name": "Rellor",
+    "form": null,
+    "types": [
+      "Bug"
+    ]
+  },
+  {
+    "no": 954,
+    "name": "Rabsca",
+    "form": null,
+    "types": [
+      "Bug",
+      "Psychic"
+    ]
+  },
+  {
+    "no": 955,
+    "name": "Flittle",
+    "form": null,
+    "types": [
+      "Psychic"
+    ]
+  },
+  {
+    "no": 956,
+    "name": "Espathra",
+    "form": null,
+    "types": [
+      "Psychic"
+    ]
+  },
+  {
+    "no": 957,
+    "name": "Tinkatink",
+    "form": null,
+    "types": [
+      "Fairy",
+      "Steel"
+    ]
+  },
+  {
+    "no": 958,
+    "name": "Tinkatuff",
+    "form": null,
+    "types": [
+      "Fairy",
+      "Steel"
+    ]
+  },
+  {
+    "no": 959,
+    "name": "Tinkaton",
+    "form": null,
+    "types": [
+      "Fairy",
+      "Steel"
+    ]
+  },
+  {
+    "no": 960,
+    "name": "Wiglett",
+    "form": null,
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "no": 961,
+    "name": "Wugtrio",
+    "form": null,
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "no": 962,
+    "name": "Bombirdier",
+    "form": null,
+    "types": [
+      "Flying",
+      "Dark"
+    ]
+  },
+  {
+    "no": 963,
+    "name": "Finizen",
+    "form": null,
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "no": 964,
+    "name": "Palafin",
+    "form": "Zero Form",
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "no": 964,
+    "name": "Palafin",
+    "form": "Hero Form",
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "no": 965,
+    "name": "Varoom",
+    "form": null,
+    "types": [
+      "Steel",
+      "Poison"
+    ]
+  },
+  {
+    "no": 966,
+    "name": "Revavroom",
+    "form": null,
+    "types": [
+      "Steel",
+      "Poison"
+    ]
+  },
+  {
+    "no": 967,
+    "name": "Cyclizar",
+    "form": null,
+    "types": [
+      "Dragon",
+      "Normal"
+    ]
+  },
+  {
+    "no": 968,
+    "name": "Orthworm",
+    "form": null,
+    "types": [
+      "Steel"
+    ]
+  },
+  {
+    "no": 969,
+    "name": "Glimmet",
+    "form": null,
+    "types": [
+      "Rock",
+      "Poison"
+    ]
+  },
+  {
+    "no": 970,
+    "name": "Glimmora",
+    "form": null,
+    "types": [
+      "Rock",
+      "Poison"
+    ]
+  },
+  {
+    "no": 971,
+    "name": "Greavard",
+    "form": null,
+    "types": [
+      "Ghost"
+    ]
+  },
+  {
+    "no": 972,
+    "name": "Houndstone",
+    "form": null,
+    "types": [
+      "Ghost"
+    ]
+  },
+  {
+    "no": 973,
+    "name": "Flamigo",
+    "form": null,
+    "types": [
+      "Flying",
+      "Fighting"
+    ]
+  },
+  {
+    "no": 974,
+    "name": "Cetoddle",
+    "form": null,
+    "types": [
+      "Ice"
+    ]
+  },
+  {
+    "no": 975,
+    "name": "Cetitan",
+    "form": null,
+    "types": [
+      "Ice"
+    ]
+  },
+  {
+    "no": 976,
+    "name": "Veluza",
+    "form": null,
+    "types": [
+      "Water",
+      "Psychic"
+    ]
+  },
+  {
+    "no": 977,
+    "name": "Dondozo",
+    "form": null,
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "no": 978,
+    "name": "Tatsugiri",
+    "form": "Curly Form",
+    "types": [
+      "Dragon",
+      "Water"
+    ]
+  },
+  {
+    "no": 978,
+    "name": "Tatsugiri",
+    "form": "Droopy Form",
+    "types": [
+      "Dragon",
+      "Water"
+    ]
+  },
+  {
+    "no": 978,
+    "name": "Tatsugiri",
+    "form": "Stretchy Form",
+    "types": [
+      "Dragon",
+      "Water"
+    ]
+  },
+  {
+    "no": 979,
+    "name": "Annihilape",
+    "form": null,
+    "types": [
+      "Fighting",
+      "Ghost"
+    ]
+  },
+  {
+    "no": 980,
+    "name": "Clodsire",
+    "form": null,
+    "types": [
+      "Poison",
+      "Ground"
+    ]
+  },
+  {
+    "no": 981,
+    "name": "Farigiraf",
+    "form": null,
+    "types": [
+      "Normal",
+      "Psychic"
+    ]
+  },
+  {
+    "no": 982,
+    "name": "Dudunsparce",
+    "form": "Two-Segment Form",
+    "types": [
+      "Normal"
+    ]
+  },
+  {
+    "no": 982,
+    "name": "Dudunsparce",
+    "form": "Three-Segment Form",
+    "types": [
+      "Normal"
+    ]
+  },
+  {
+    "no": 983,
+    "name": "Kingambit",
+    "form": null,
+    "types": [
+      "Dark",
+      "Steel"
+    ]
+  },
+  {
+    "no": 984,
+    "name": "Great Tusk",
+    "form": null,
+    "types": [
+      "Ground",
+      "Fighting"
+    ]
+  },
+  {
+    "no": 985,
+    "name": "Scream Tail",
+    "form": null,
+    "types": [
+      "Fairy",
+      "Psychic"
+    ]
+  },
+  {
+    "no": 986,
+    "name": "Brute Bonnet",
+    "form": null,
+    "types": [
+      "Grass",
+      "Dark"
+    ]
+  },
+  {
+    "no": 987,
+    "name": "Flutter Mane",
+    "form": null,
+    "types": [
+      "Ghost",
+      "Fairy"
+    ]
+  },
+  {
+    "no": 988,
+    "name": "Slither Wing",
+    "form": null,
+    "types": [
+      "Bug",
+      "Fighting"
+    ]
+  },
+  {
+    "no": 989,
+    "name": "Sandy Shocks",
+    "form": null,
+    "types": [
+      "Electric",
+      "Ground"
+    ]
+  },
+  {
+    "no": 990,
+    "name": "Iron Treads",
+    "form": null,
+    "types": [
+      "Ground",
+      "Steel"
+    ]
+  },
+  {
+    "no": 991,
+    "name": "Iron Bundle",
+    "form": null,
+    "types": [
+      "Ice",
+      "Water"
+    ]
+  },
+  {
+    "no": 992,
+    "name": "Iron Hands",
+    "form": null,
+    "types": [
+      "Fighting",
+      "Electric"
+    ]
+  },
+  {
+    "no": 993,
+    "name": "Iron Jugulis",
+    "form": null,
+    "types": [
+      "Dark",
+      "Flying"
+    ]
+  },
+  {
+    "no": 994,
+    "name": "Iron Moth",
+    "form": null,
+    "types": [
+      "Fire",
+      "Poison"
+    ]
+  },
+  {
+    "no": 995,
+    "name": "Iron Thorns",
+    "form": null,
+    "types": [
+      "Rock",
+      "Electric"
+    ]
+  },
+  {
+    "no": 996,
+    "name": "Frigibax",
+    "form": null,
+    "types": [
+      "Dragon",
+      "Ice"
+    ]
+  },
+  {
+    "no": 997,
+    "name": "Arctibax",
+    "form": null,
+    "types": [
+      "Dragon",
+      "Ice"
+    ]
+  },
+  {
+    "no": 998,
+    "name": "Baxcalibur",
+    "form": null,
+    "types": [
+      "Dragon",
+      "Ice"
+    ]
+  },
+  {
+    "no": 999,
+    "name": "Gimmighoul",
+    "form": "Chest Form",
+    "types": [
+      "Ghost"
+    ]
+  },
+  {
+    "no": 999,
+    "name": "Gimmighoul",
+    "form": "Roaming Form",
+    "types": [
+      "Ghost"
+    ]
+  },
+  {
+    "no": 1000,
+    "name": "Gholdengo",
+    "form": null,
+    "types": [
+      "Steel",
+      "Ghost"
+    ]
+  },
+  {
+    "no": 1001,
+    "name": "Wo-Chien",
+    "form": null,
+    "types": [
+      "Dark",
+      "Grass"
+    ]
+  },
+  {
+    "no": 1002,
+    "name": "Chien-Pao",
+    "form": null,
+    "types": [
+      "Dark",
+      "Ice"
+    ]
+  },
+  {
+    "no": 1003,
+    "name": "Ting-Lu",
+    "form": null,
+    "types": [
+      "Dark",
+      "Ground"
+    ]
+  },
+  {
+    "no": 1004,
+    "name": "Chi-Yu",
+    "form": null,
+    "types": [
+      "Dark",
+      "Fire"
+    ]
+  },
+  {
+    "no": 1005,
+    "name": "Roaring Moon",
+    "form": null,
+    "types": [
+      "Dragon",
+      "Dark"
+    ]
+  },
+  {
+    "no": 1006,
+    "name": "Iron Valiant",
+    "form": null,
+    "types": [
+      "Fairy",
+      "Fighting"
+    ]
+  },
+  {
+    "no": 1007,
+    "name": "Koraidon",
+    "form": null,
+    "types": [
+      "Fighting",
+      "Dragon"
+    ]
+  },
+  {
+    "no": 1008,
+    "name": "Miraidon",
+    "form": null,
+    "types": [
+      "Electric",
+      "Dragon"
     ]
   }
 ]
