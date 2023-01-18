@@ -10,7 +10,7 @@ const getRegionList = async () => {
       'zh-TW': '關都',
     },
     {
-      patterns: ['Unovan form', 'Unovan', 'Unova'],
+      patterns: ['Unovian form', 'Unovian', 'Unovan form', 'Unovan', 'Unova'],
       'en-US': 'Unova',
       'zh-TW': '合眾',
     },
@@ -23,6 +23,16 @@ const getRegionList = async () => {
       patterns: ['Galarian form', 'Galarian', 'Galar'],
       'en-US': 'Galar',
       'zh-TW': '伽勒爾',
+    },
+    {
+      patterns: ['Hisuian form', 'Hisuian', 'Hisui'],
+      'en-US': 'Hisui',
+      'zh-TW': '洗翠'
+    },
+    {
+      patterns: ['Paldean form', 'Paldean', 'Paldea'],
+      'en-US': 'Paldea',
+      'zh-TW': '帕底亞',
     },
   ];
 };

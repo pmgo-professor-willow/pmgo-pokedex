@@ -33,25 +33,26 @@ const getPokemonByFuzzyName = (pokemonName: string, targetLocale: Locale = 'zh-T
   const matchedPokemonName = pokemonNameList[bestNameIndex];
   const matchedPokemon = pokemonList[bestIndex];
 
-  let form = "";
   regionList.forEach((region) => {
     region.patterns.forEach((pattern) => {
       if (new RegExp(pattern, 'i').test(pokemonName)) {
-        form = region[targetLocale];
+        matchedPokemon.form = region[targetLocale];
       }
     });
   });
 
-  formList.forEach((f) => {
-    if (f.name === matchedPokemon.name && f['en-US'] === matchedPokemon.form) {
-      form = f[targetLocale] as string;
+  formList.forEach((form) => {
+    const isSameName = form.name === matchedPokemon.name;
+    const isSameForm = form['en-US']?.toLowerCase() === matchedPokemon.form?.toLowerCase();
+    if (isSameName && isSameForm) {
+      matchedPokemon.form = String(form[targetLocale]);
     }
   });
 
   const pokemon: Pokemon = {
     no: matchedPokemonName.no,
     name: matchedPokemonName[targetLocale],
-    form: form,
+    form: matchedPokemon.form,
     types: matchedPokemon.types.map((typeText) => transType(typeText, targetLocale)!),
   };
 

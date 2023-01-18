@@ -12,7 +12,12 @@
   ],
   "scripts": {
     "build": "tsc",
-    "start": "ts-node ./src/index.ts"
+    "start": "ts-node ./src/index.ts",
+    "list:pokemon": "ts-node ./tools/list-pokemon.ts",
+    "list:pokemon-name": "ts-node ./tools/list-pokemon-name.ts",
+    "list:region": "ts-node ./tools/list-region.ts",
+    "list:form": "ts-node ./tools/list-form.ts",
+    "list:type": "ts-node ./tools/list-type.ts"
   },
   "dependencies": {
     "fs-extra": "11.1.0",
