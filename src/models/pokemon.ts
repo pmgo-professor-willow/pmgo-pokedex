@@ -8,7 +8,7 @@ export interface PokemonName {
 export interface Pokemon {
   no: number;
   name: string;
-  form: string;
+  form: string | null;
   types: string[];
 }
 

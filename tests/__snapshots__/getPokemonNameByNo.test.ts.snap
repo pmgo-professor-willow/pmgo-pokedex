@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`General case Chinese (no: 1) 1`] = `"妙蛙種子"`;
+
+exports[`General case Chinese (no: 2) 1`] = `"妙蛙草"`;
+
+exports[`General case Chinese (no: 3) 1`] = `"妙蛙花"`;
+
+exports[`General case English (no: 1) 1`] = `"Bulbasaur"`;
+
+exports[`General case English (no: 2) 1`] = `"Ivysaur"`;
+
+exports[`General case English (no: 3) 1`] = `"Venusaur"`;

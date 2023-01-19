@@ -7,32 +7,32 @@ const getRegionList = async () => {
     {
       patterns: ['Kantonian form', 'Kantonian', 'Kanto'],
       'en-US': 'Kanto',
-      'zh-TW': '關都',
+      'zh-TW': '關都地區',
     },
     {
       patterns: ['Unovian form', 'Unovian', 'Unovan form', 'Unovan', 'Unova'],
       'en-US': 'Unova',
-      'zh-TW': '合眾',
+      'zh-TW': '合眾地區',
     },
     {
       patterns: ['Alolan form', 'Alolan', 'Alola'],
       'en-US': 'Alola',
-      'zh-TW': '阿羅拉',
+      'zh-TW': '阿羅拉地區',
     },
     {
       patterns: ['Galarian form', 'Galarian', 'Galar'],
       'en-US': 'Galar',
-      'zh-TW': '伽勒爾',
+      'zh-TW': '伽勒爾地區',
     },
     {
       patterns: ['Hisuian form', 'Hisuian', 'Hisui'],
       'en-US': 'Hisui',
-      'zh-TW': '洗翠'
+      'zh-TW': '洗翠地區'
     },
     {
       patterns: ['Paldean form', 'Paldean', 'Paldea'],
       'en-US': 'Paldea',
-      'zh-TW': '帕底亞',
+      'zh-TW': '帕底亞地區',
     },
   ];
 };

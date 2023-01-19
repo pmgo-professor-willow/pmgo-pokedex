@@ -1071,7 +1071,7 @@
     "no": 503,
     "name": "Samurott",
     "en-US": "Unovian",
-    "zh-TW": "合眾"
+    "zh-TW": "合眾地區"
   },
   {
     "no": 503,
@@ -1083,7 +1083,7 @@
     "no": 549,
     "name": "Lilligant",
     "en-US": "Unovian",
-    "zh-TW": "合眾"
+    "zh-TW": "合眾地區"
   },
   {
     "no": 549,
@@ -1125,37 +1125,25 @@
     "no": 555,
     "name": "Darmanitan",
     "en-US": "Unovan Regular",
-    "zh-TW": "合眾地區 一般的樣子"
+    "zh-TW": "一般的樣子"
   },
   {
     "no": 555,
     "name": "Darmanitan",
     "en-US": "Galarian Regular",
-    "zh-TW": "伽勒爾地區 普通模式"
+    "zh-TW": "伽勒爾地區 一般的樣子"
   },
   {
     "no": 555,
     "name": "Darmanitan",
-    "en-US": "Unovan Zen",
-    "zh-TW": "合眾地區 達摩模式"
-  },
-  {
-    "no": 555,
-    "name": "Darmanitan",
-    "en-US": "Galarian Zen",
-    "zh-TW": "伽勒爾地區 達摩模式"
-  },
-  {
-    "no": 555,
-    "name": "Darmanitan",
-    "en-US": "Standard Mode",
-    "zh-TW": "普通模式"
-  },
-  {
-    "no": 555,
-    "name": "Darmanitan",
-    "en-US": "Zen Mode",
+    "en-US": "Unovan Zen Mode",
     "zh-TW": "達摩模式"
+  },
+  {
+    "no": 555,
+    "name": "Darmanitan",
+    "en-US": "Galarian Zen Mode",
+    "zh-TW": "伽勒爾地區 達摩模式"
   },
   {
     "no": 562,
@@ -1173,7 +1161,7 @@
     "no": 570,
     "name": "Zorua",
     "en-US": "Unovian",
-    "zh-TW": "合眾"
+    "zh-TW": "合眾地區"
   },
   {
     "no": 570,
@@ -1185,7 +1173,7 @@
     "no": 571,
     "name": "Zoroark",
     "en-US": "Unovian",
-    "zh-TW": "合眾"
+    "zh-TW": "合眾地區"
   },
   {
     "no": 571,
@@ -1277,7 +1265,7 @@
     "no": 628,
     "name": "Braviary",
     "en-US": "Unovian",
-    "zh-TW": "合眾"
+    "zh-TW": "合眾地區"
   },
   {
     "no": 628,
