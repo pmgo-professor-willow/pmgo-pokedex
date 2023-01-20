@@ -1,6 +1,6 @@
 // Node modules.
 import { readFileSync } from 'node:fs';
-import { dirname, join } from 'node:path';
+import { join } from 'node:path';
 import _ from 'lodash';
 import { findBestMatch } from 'string-similarity';
 // Local modules.
@@ -9,7 +9,7 @@ import { Pokemon, PokemonForm, PokemonName, Region, Type } from './models/pokemo
 type Locale = 'en-US' | 'zh-TW';
 
 const readJson = (filename: string) => {
-  const filepath = join(dirname(require.main?.filename!), '../data', filename);
+  const filepath = join(__dirname, '../data', filename);
   const json = JSON.parse(readFileSync(filepath, { encoding: 'utf-8' }))
   return json;
 }
