@@ -1,11 +1,18 @@
 // Node modules.
 import { readFileSync } from 'node:fs';
+import { dirname, join } from 'node:path';
 import _ from 'lodash';
 import { findBestMatch } from 'string-similarity';
 // Local modules.
 import { Pokemon, PokemonForm, PokemonName, Region, Type } from './models/pokemon';
 
 type Locale = 'en-US' | 'zh-TW';
+
+const readJson = (filename: string) => {
+  const filepath = join(dirname(require.main?.filename!), '../data', filename);
+  const json = JSON.parse(readFileSync(filepath, { encoding: 'utf-8' }))
+  return json;
+}
 
 class Pokedex {
   private defaultTargetLocale: Locale;
@@ -17,11 +24,11 @@ class Pokedex {
 
   constructor(targetLocale: Locale = 'zh-TW') {
     this.defaultTargetLocale = targetLocale;
-    this.pokemonNameList = JSON.parse(readFileSync('data/pokemon-name-list.json', { encoding: 'utf-8' }));
-    this.pokemonList = JSON.parse(readFileSync('data/pokemon-list.json', { encoding: 'utf-8' }));
-    this.formList = JSON.parse(readFileSync('data/form-list.json', { encoding: 'utf-8' }));
-    this.regionList = JSON.parse(readFileSync('data/region-list.json', { encoding: 'utf-8' }));
-    this.typeList = JSON.parse(readFileSync('data/type-list.json', { encoding: 'utf-8' }));
+    this.pokemonNameList = readJson('pokemon-name-list.json');
+    this.pokemonList = readJson('pokemon-list.json');
+    this.formList = readJson('form-list.json');
+    this.regionList = readJson('region-list.json');
+    this.typeList = readJson('type-list.json');
   }
 
   /** Get pokemon's name by pokemon's number. */
