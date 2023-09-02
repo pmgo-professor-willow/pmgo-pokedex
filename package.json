@@ -1,6 +1,7 @@
 {
   "name": "pmgo-pokedex",
-  "version": "0.2.2",
+  "version": "1.0.0",
+  "type": "module",
   "description": "Provide Pokemon GO pokedex data and useful translation.",
   "main": "dist/pokedex.js",
   "repository": "https://github.com/pmgo-professor-willow/pmgo-pokedex",
@@ -12,32 +13,24 @@
   ],
   "scripts": {
     "build": "tsc",
-    "test": "jest --coverage ./tests",
-    "list:pokemon": "ts-node ./tools/list-pokemon.ts",
-    "list:pokemon-name": "ts-node ./tools/list-pokemon-name.ts",
-    "list:region": "ts-node ./tools/list-region.ts",
-    "list:form": "ts-node ./tools/list-form.ts",
-    "list:type": "ts-node ./tools/list-type.ts"
+    "start": "dotenv -- yarn node --loader ./scripts/ts-loader.js src/main.ts"
   },
   "dependencies": {
-    "fs-extra": "11.1.0",
-    "lodash": "^4.17.21",
-    "node-fetch": "^2.6.1",
-    "node-html-parser": "^2.0.0",
-    "string-similarity": "^4.0.4",
-    "url-join": "^4.0.1"
+    "app-root-path": "^3.1.0",
+    "dotenv-cli": "^7.3.0",
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
-    "@types/fs-extra": "11.0.1",
-    "@types/jest": "^29.2.5",
-    "@types/lodash": "4.14.191",
-    "@types/node": "18.11.18",
-    "@types/node-fetch": "2.6.2",
-    "@types/string-similarity": "^4.0.0",
-    "@types/url-join": "^4.0.0",
-    "jest": "^29.3.1",
-    "ts-jest": "^29.0.5",
-    "ts-node": "10.9.1",
-    "typescript": "^4.9.4"
+    "@types/app-root-path": "^1.2.5",
+    "@types/jest": "^29.5.4",
+    "@types/lodash": "^4.14.197",
+    "@types/node": "^20.5.7",
+    "@types/node-fetch": "^2.6.4",
+    "jest": "^29.6.4",
+    "node-fetch": "^3.3.2",
+    "ts-jest": "^29.1.1",
+    "ts-node": "^10.9.1",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.2.2"
   }
 }
