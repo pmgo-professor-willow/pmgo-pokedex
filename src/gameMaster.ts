@@ -1,5 +1,5 @@
 // Node modules.
-import { readFile } from 'node:fs/promises';
+import { readFileSync } from 'node:fs';
 import appRoot from 'app-root-path';
 
 interface Template {
@@ -39,8 +39,8 @@ const resourceTargetFilterTable: Record<ResourceTarget, RegExp> = {
 /**
  * GameMaster is Pokemon Go data.
  */
-const getGameMaster = async () => {
-  const rawdata = await readFile(`${appRoot.path}/rawdata/gameMaster.json`, 'utf-8');
+const getGameMaster = () => {
+  const rawdata = readFileSync(`${appRoot.path}/rawdata/gameMaster.json`, 'utf-8');
   const gameMaster: GameMaster = JSON.parse(rawdata);
   return gameMaster;
 };
@@ -48,8 +48,8 @@ const getGameMaster = async () => {
 /**
  * Resources is I18n of Pokemon Go data.
  */
-const getResources = async (target: ResourceTarget) => {
-  const rawdata = await readFile(`${appRoot.path}/rawdata/resources.txt`, 'utf-8');
+const getResources = (target: ResourceTarget) => {
+  const rawdata = readFileSync(`${appRoot.path}/rawdata/resources.txt`, 'utf-8');
   const filterPattern = resourceTargetFilterTable[target];
 
   return rawdata.match(/RESOURCE ID: [^\n]+\nTEXT: [^\n]+/sg)?.reduce<Resource>((prev, resource) => {

@@ -1,12 +1,14 @@
 // Local modules.
-import { CombatMove, Move } from 'src/models/move';
+import { CombatMoveRaw, BaseMoveRaw } from 'src/models/move';
 import { getResources } from 'src/gameMaster';
 
 const pokemonTypeDict = await getResources('pokemonType');
 
-const translateType = (move: Move | CombatMove) => {
-  const formattedType = move.type.replace('POKEMON_TYPE_', '').toLowerCase();
+const translateType = (move: BaseMoveRaw | CombatMoveRaw) => {
+  const typeRaw = ('pokemonType' in move) ? move.pokemonType : move.type;
+  const formattedType = typeRaw.replace('POKEMON_TYPE_', '').toLowerCase();
   const translatedTypes = pokemonTypeDict[formattedType];
+
   return translatedTypes;
 };
 

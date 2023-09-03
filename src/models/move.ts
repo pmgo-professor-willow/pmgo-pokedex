@@ -3,7 +3,7 @@
  *
  * * `templateId`: `COMBAT_Vxxxx_MOVE_xxxx`
  */
-interface CombatMove {
+interface CombatMoveRaw {
   uniqueId: string;
   type: string;
   power: number;
@@ -24,10 +24,10 @@ interface CombatMove {
  *
  * * `templateId`: `Vxxxx_MOVE_xxxx`
  */
-interface Move {
+interface BaseMoveRaw {
   movementId: string;
   animationId: number;
-  type: string;
+  pokemonType: string;
   power: number;
   staminaLossScalar: number;
   trainerLevelMin: number;
@@ -43,7 +43,38 @@ interface Move {
   criticalChance?: number;
 }
 
+/**
+ * Pokemon data
+ */
+interface Move {
+  uniqueId: string;
+  no: number;
+  name: string;
+  type: string;
+  base: {
+    power: number;
+    staminaLossScalar: number;
+    durationMs: number;
+    energyDelta: number;
+    accuracyChance?: number;
+    criticalChance?: number;
+  };
+  combat: {
+    power: number;
+    energyDelta: number;
+    durationTurns?: number;
+    buffs?: {
+      attackerAttackStatStageChange?: number;
+      attackerDefenseStatStageChange?: number;
+      targetAttackStatStageChange?: number;
+      targetDefenseStatStageChange?: number;
+      buffActivationChance: number;
+    };
+  };
+}
+
 export {
-  CombatMove,
+  CombatMoveRaw,
+  BaseMoveRaw,
   Move,
 };

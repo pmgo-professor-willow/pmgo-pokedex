@@ -1,15 +1,19 @@
 // Node modules.
 import _ from 'lodash';
 // Local modules.
-import { CombatMove, Move } from 'src/models/move';
+import { CombatMoveRaw, BaseMoveRaw, Move } from 'src/models/move';
 import { getGameMaster } from 'src/gameMaster';
 import { translateName } from 'src/move/name';
 import { translateType } from 'src/move/type';
 
-const getMoves = async () => {
-  const gameMaster = await getGameMaster();
+type BaseMove = Pick<Move, 'uniqueId' | 'no' | 'name' | 'type'> & Move['base'];
 
-  const moves = gameMaster.reduce<any[]>((prev, template) => {
+type CombatMove = Pick<Move, 'uniqueId' | 'no' | 'name' | 'type'> & Move['combat'];
+
+const getMoves = () => {
+  const gameMaster = getGameMaster();
+
+  const moves = gameMaster.reduce<BaseMove[]>((prev, template) => {
     /**
      * @example input: 'V0013_MOVE_WRAP'
      */
@@ -17,13 +21,13 @@ const getMoves = async () => {
 
     if (matches) {
       const { 1: noIndex, 2: moveName } = matches;
-      const move = template.data.moveSettings as Move;
+      const move = template.data.moveSettings as BaseMoveRaw;
 
       prev.push({
-        name: translateName(noIndex),
-        no: parseInt(noIndex),
         uniqueId: move.movementId,
-        type: move.type,
+        no: parseInt(noIndex),
+        name: translateName(noIndex),
+        type: translateType(move),
         power: move.power,
         accuracyChance: move.accuracyChance,
         staminaLossScalar: move.staminaLossScalar,
@@ -38,10 +42,10 @@ const getMoves = async () => {
   return moves;
 };
 
-const getCombatMoves = async () => {
-  const gameMaster = await getGameMaster();
+const getCombatMoves = () => {
+  const gameMaster = getGameMaster();
 
-  const combatMoves = gameMaster.reduce<any[]>((prev, template) => {
+  const combatMoves = gameMaster.reduce<CombatMove[]>((prev, template) => {
     /**
      * @example input: 'COMBAT_V0014_MOVE_HYPER_BEAM'
      */
@@ -49,7 +53,7 @@ const getCombatMoves = async () => {
 
     if (matches) {
       const { 1: noIndex, 2: combatMoveName } = matches;
-      const combatMove = template.data.combatMove as CombatMove;
+      const combatMove = template.data.combatMove as CombatMoveRaw;
 
       prev.push({
         uniqueId: combatMove.uniqueId,
@@ -69,9 +73,9 @@ const getCombatMoves = async () => {
   return combatMoves;
 };
 
-const allMoves = await getMoves();
+const allMoves = getMoves();
 
-const allCombatMoves = await getCombatMoves();
+const allCombatMoves = getCombatMoves();
 
 const getMoveById = (uniqueId: string) => {
   const move = allMoves.find((move) => move.uniqueId === uniqueId) ?? null;
@@ -84,11 +88,11 @@ const getCombatMoveById = (uniqueId: string) => {
 };
 
 const getMoveByIds = (moveUniqueIds: string[] = []) => {
-  const baseMoves = moveUniqueIds.map(getMoveById);
-  const combatMoves = moveUniqueIds.map(getCombatMoveById);
+  const baseMoves = _.compact(moveUniqueIds.map(getMoveById));
+  const combatMoves = _.compact(moveUniqueIds.map(getCombatMoveById));
 
   const moves = baseMoves.map((baseMove) => {
-    const sameFields = ['no', 'name', 'uniqueId', 'type'];
+    const sameFields = ['no', 'name', 'uniqueId', 'type'] as const;
     const combatMove = combatMoves.find((move) => move.uniqueId === baseMove.uniqueId);
 
     return {

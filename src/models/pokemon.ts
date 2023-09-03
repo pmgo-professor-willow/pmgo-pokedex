@@ -1,3 +1,6 @@
+// Local modules.
+import { Move } from 'src/models/move';
+
 /**
  * `data.pokemonSettings` of game master
  *
@@ -25,9 +28,9 @@ interface PokemonRaw {
     candyToUnlock: number;
   };
   evolutionBranch?: {
-    evolution: string;
+    evolution?: string;
     form?: string;
-    candyCost: number;
+    candyCost?: number;
     priority?: number;
     // Evolution requirement
     evolutionItemRequirement?: string;
@@ -63,8 +66,52 @@ interface PokemonRaw {
     modelScaleV2: number;
     modelHeight: number;
   }[];
+  shadow?: {
+    purificationStardustNeeded: number;
+    purificationCandyNeeded: number;
+    purifiedChargeMove: string;
+    shadowChargeMove: string;
+  };
+  isTransferable?: true;
+  isDeployable?: true;
+  isTradable?: true;
 }
+
+/**
+ * Pokemon data
+ */
+interface Pokemon {
+  uniqueId: string;
+  pokemonId: string;
+  no: number;
+  name: string;
+  types: string[];
+  category: string;
+  description: string;
+  form: string | null;
+  class: string | null;
+  familyId: string;
+  evolutions: {
+    candyCost?: number;
+    energyCost?: number;
+    evolutionItemRequirement?: string;
+    genderRequirement?: 'FEMALE' | 'MALE';
+  }[];
+  stats: {
+    baseStamina: number;
+    baseAttack: number;
+    baseDefense: number;
+  };
+  quickMoves: Move[];
+  cinematicMoves: Move[];
+  eliteQuickMoves: Move[];
+  eliteCinematicMoves: Move[];
+  cpTable: {
+    [level: number]: number;
+  };
+};
 
 export {
   PokemonRaw,
+  Pokemon,
 };
